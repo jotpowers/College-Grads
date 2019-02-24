@@ -16,39 +16,39 @@ Congratulations, you're young.  That means you probably don't have a lot of medi
 *Being able to see
 
 ## Medical
-###General considerations
+### General considerations
 Medical generally falls into two categories (but now there is a third one.  yay.)
 
-####Preferred Provider Organization (PPO)
+#### Preferred Provider Organization (PPO)
 *Good news: A PPO allows you to go to any doctor without a referral.  This is awesome because it doesn't mean that you're bottlenecked on first seeing your Primary Care Physician (PCP), getting a referral, then going.
 *Bad news: It is more expensive.  Co-pays (the amount you pay at each visit) are higher and your maximum out-of-pocket for a year also tend to be higher.
 
-####Health Maintenance Organization (HMO)
+#### Health Maintenance Organization (HMO)
 *Good news:  Lower copays.  Lower annual costs.
 *Bad news:  You have to choose a PCP (sadly, not the recreational drug) and then go to that person first for all visits to specialists.
 
-#####Consumer Directed Health Savings Plan (CDHSP)
+##### Consumer Directed Health Savings Plan (CDHSP)
 
 Just to prove it’s possible to create a more useless abbreviation, we have CDHSP.  
 This is the new one, so I need to update it more.
 
-###Finding a Doctor
+### Finding a Doctor
 The same way you do anything else nowadays.  Research on the internet and ask co-workers if they have someone they particularly like.
 
-#####Anecdote
+##### Anecdote
 I started out with a PPO when it was just my wife and myself.  The flexibility was awesome.  However, when the Powers family started to grow we looked at the expense of having our first child and an HMO saved us ~$3k in a single year, so we switched and haven't gone back.
 
-##Dental
+## Dental
 Almost everyone has teeth.  Almost all dental plans will not cover you fully for any major problems and your options are limited.  Choose one and it doesn't matter much.
 BUT, make sure you start getting dental cleanings every six months.  Dental health is a keystone health issue.  It is predictive and causal for increased problems things like heart disease, stroke and chewing solid food.
 
-##Vision
+## Vision
 Much like dental, there aren't any great options and it's just about reducing your overall costs.   The only caveat being if you're going to do something like LASIK.  One of the plans is evidently better than the other, but I'm not, so you're on your own to figure that out.  Once you do, feel free to edit this section.
 
-#Retirement
+# Retirement
 Saving now will set you up for the future in a way you can't make up for later.  Plus I want you to think nice thoughts about me when you retire.  :)  You especially want to do this due to the power of compounding!  You're young.  Take advantage of that long time horizon to make future you love past you.
 
-##Invest Early & Often
+## Invest Early & Often
 I haven't looked in detail recently at what we can do through our plan, but this would be a good way to allocate your investments in the 401k.
 *Three Fund Portfolio
 Finally, watch these videos:
@@ -65,27 +65,27 @@ If someone tries to sell you something that is low-risk and high return, walk aw
 
 The other thing that also comes into play is liquidity.  In particular think about things like real-estate which can't be quickly sold, versus cash which doesn't need to be sold.
 
-##401(k)
+## 401(k)
 This is the best corporate investing options.  So named for the portion of the US Tax Code it is defined in, as well as a count of the numbers of reasons you don't care why it's named what it is.
 You contribute either pre-tax or post-tax money (more details below) with the earnings on the account growing tax free or tax deferred.
 Most companies will match a percentage of your salary.  Regardless of anything else, you should do at least that.
 You have the option of a Roth or Traditional 401k.  In general I think a Roth is likely going to work out better because over a long period of time, hopefully you'll retire rich.
 *(Reddit 401k Wiki) [add the link here]
 
-###Roth vs Traditional
+### Roth vs Traditional
 So, which one should you do?  If there were a straightforward answer, the other one would never get mentioned, so it isn't a simple answer.  Essentially what you're trying to figure out is whether or not you'll be in a higher or lower tax bracket when you retire.
-####Traditional
+#### Traditional
 Contributions are pre-tax.  But no one gets away without paying taxes eventually, so you will pay taxes when you withdraw at your tax rate at that time.  (Tax deferred)
 *Your bet:  Your tax rate when you retire is going to be lower than your current tax rate.
-####Roth
+#### Roth
 Contributions are after-tax.  So you've paid your taxes already and you get to withdraw tax free.
 *Your bet:  Your tax rate now is lower than it will be when you retire.
 Add more here about flexibility of withdraw, etc
 
-##Individual Retirement Accounts (IRA)
+## Individual Retirement Accounts (IRA)
 The above information also applies to IRAs as well, but with further caveats.  Your ability to contribute to an IRA when you also have a work sponsored plan is limited.  They can also be income limited, so pay attention.  This probably falls into the "advanced financial planning" category and beyond the scope of this backgrounder.  You start getting into things like "mega backdoor Roth" which is probably the worst metal band name ever.
 
-##What should I invest in?
+## What should I invest in?
 
 You should invest in the assets that aren't going to make you a nervous wreck.  Different people have different tolerances for risk.  
 *Index funds
