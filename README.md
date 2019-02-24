@@ -2,7 +2,7 @@
 
 The information in here started when I had several RCGs that were starting to work for me.  Now, some of it was very specific to the company I was working for, but over time, it because a document that people were referring to for a lot of different things, primarily due to the finance information/opinions in it.
 
-Then it grew to the point where I decided it probably needed to be crowdsources, but the discussion was how.  And now we have it on Github.
+Then it grew to the point where I decided it probably needed to be crowdsourced, but the discussion was how.  And now we have it on Github.
 
 # Overview
 I graduated so long ago that the basics of how to incorporate into corporate America are so second nature that I forget about all the questions I had at the time.  So, here are the thoughts that I find myself distilling down for my RCGs when they join the team.
@@ -74,7 +74,7 @@ You contribute either pre-tax or post-tax money (more details below) with the ea
 Most companies will match a percentage of your salary.  Regardless of anything else, you should do at least that.
 You have the option of a Roth or Traditional 401k.  In general I think a Roth is likely going to work out better because over a long period of time, hopefully you'll retire rich.
 
-* (Reddit 401k Wiki) [add the link here]
+* (Reddit 401k Wiki)[https://www.reddit.com/r/personalfinance/wiki/401k]
 
 ### Roth vs Traditional
 So, which one should you do?  If there were a straightforward answer, the other one would never get mentioned, so it isn't a simple answer.  Essentially what you're trying to figure out is whether or not you'll be in a higher or lower tax bracket when you retire.
@@ -85,7 +85,10 @@ Contributions are pre-tax.  But no one gets away without paying taxes eventually
 Contributions are after-tax.  So you've paid your taxes already and you get to withdraw tax free.
 * Your bet:  Your tax rate now is lower than it will be when you retire.
 
-Add more here about flexibility of withdraw, etc
+Now, there are a few other advantages to a Roth.
+* You are not forced to take distributions at 70 1/2 like you are for traditional.  Ok, really, you **are** required to take them if you keep your money in the Roth 401k.  **BUT** if you roll it over into a Roth IRA (why not) it doesn't have this limitation, so you can pass it on to heirs, if you're so lucky.
+* You can withdraw your contributions without penalties (but you shouldn't).  Because your money was contributed post-tax, it can be withdrawn without incurring penalties.  At least that's the reason we ascribe to it.  In reality, trying to decipher why anything is anyway in our tax code is a fool's errand.
+
 
 ## Individual Retirement Accounts (IRA)
 The above information also applies to IRAs as well, but with further caveats.  Your ability to contribute to an IRA when you also have a work sponsored plan is limited.  They can also be income limited, so pay attention.  This probably falls into the "advanced financial planning" category and beyond the scope of this backgrounder.  You start getting into things like "mega backdoor Roth" which is probably the worst metal band name ever.
