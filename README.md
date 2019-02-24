@@ -11,21 +11,21 @@ Note: These are my opinions.  Other people might have different ones.  Maybe peo
 # Health care
 One of the first questions "What is up with all these confusing options?"
 Congratulations, you're young.  That means you probably don't have a lot of medical conditions that you have to worry about.  Pieces haven't started falling off and Boy Scouts aren't offering to shepherd you across the street.  But, now that you are adulting, you should consider things like:
-*Annual physicals
-*Dental care
-*Being able to see
+* Annual physicals
+* Dental care
+* Being able to see
 
 ## Medical
 ### General considerations
 Medical generally falls into two categories (but now there is a third one.  yay.)
 
 #### Preferred Provider Organization (PPO)
-*Good news: A PPO allows you to go to any doctor without a referral.  This is awesome because it doesn't mean that you're bottlenecked on first seeing your Primary Care Physician (PCP), getting a referral, then going.
-*Bad news: It is more expensive.  Co-pays (the amount you pay at each visit) are higher and your maximum out-of-pocket for a year also tend to be higher.
+* Good news: A PPO allows you to go to any doctor without a referral.  This is awesome because it doesn't mean that you're bottlenecked on first seeing your Primary Care Physician (PCP), getting a referral, then going.
+* Bad news: It is more expensive.  Co-pays (the amount you pay at each visit) are higher and your maximum out-of-pocket for a year also tend to be higher.
 
 #### Health Maintenance Organization (HMO)
-*Good news:  Lower copays.  Lower annual costs.
-*Bad news:  You have to choose a PCP (sadly, not the recreational drug) and then go to that person first for all visits to specialists.
+* Good news:  Lower copays.  Lower annual costs.
+* Bad news:  You have to choose a PCP (sadly, not the recreational drug) and then go to that person first for all visits to specialists.
 
 ##### Consumer Directed Health Savings Plan (CDHSP)
 
@@ -50,15 +50,15 @@ Saving now will set you up for the future in a way you can't make up for later. 
 
 ## Invest Early & Often
 I haven't looked in detail recently at what we can do through our plan, but this would be a good way to allocate your investments in the 401k.
-*Three Fund Portfolio
+* Three Fund Portfolio
 Finally, watch these videos:
 Boring Videos
 Yes, they're more than a little boring.  Sorry about that.  But I really believe if you follow these concepts you will be super successful financially and prevent people from taking advantage of you in your financial life (and trust me, plenty of people will try).
 
 **Never Forget!**
 Investing is ALWAYS going to be trade-off of two things (plus another):
-*Risk
-*Return
+* Risk
+* Return
 
 The higher the risk, the greater the potential return, and vise-versa.
 If someone tries to sell you something that is low-risk and high return, walk away.
@@ -70,16 +70,16 @@ This is the best corporate investing options.  So named for the portion of the U
 You contribute either pre-tax or post-tax money (more details below) with the earnings on the account growing tax free or tax deferred.
 Most companies will match a percentage of your salary.  Regardless of anything else, you should do at least that.
 You have the option of a Roth or Traditional 401k.  In general I think a Roth is likely going to work out better because over a long period of time, hopefully you'll retire rich.
-*(Reddit 401k Wiki) [add the link here]
+* (Reddit 401k Wiki) [add the link here]
 
 ### Roth vs Traditional
 So, which one should you do?  If there were a straightforward answer, the other one would never get mentioned, so it isn't a simple answer.  Essentially what you're trying to figure out is whether or not you'll be in a higher or lower tax bracket when you retire.
 #### Traditional
 Contributions are pre-tax.  But no one gets away without paying taxes eventually, so you will pay taxes when you withdraw at your tax rate at that time.  (Tax deferred)
-*Your bet:  Your tax rate when you retire is going to be lower than your current tax rate.
+* Your bet:  Your tax rate when you retire is going to be lower than your current tax rate.
 #### Roth
 Contributions are after-tax.  So you've paid your taxes already and you get to withdraw tax free.
-*Your bet:  Your tax rate now is lower than it will be when you retire.
+* Your bet:  Your tax rate now is lower than it will be when you retire.
 Add more here about flexibility of withdraw, etc
 
 ## Individual Retirement Accounts (IRA)
@@ -88,13 +88,13 @@ The above information also applies to IRAs as well, but with further caveats.  Y
 ## What should I invest in?
 
 You should invest in the assets that aren't going to make you a nervous wreck.  Different people have different tolerances for risk.  
-*Index funds
+* Index funds
 Yes.  These have low fees and if you choose the standard stock indices (S&P500, Large Cap, etc...) they have historically good returns.
-*Target date
+* Target date
 Also yes.  These work by you setting a date that you expect to want to get the money.  They will automatically rebalance the portfolio over time from high return investments to low risk investments so that you get the advantages of growth with planned stability at the end.
-*Low fees
+* Low fees
 When in doubt, choose the options with low fees.  Fees come straight off of your return.  Thus a fund that is under .25% will perform significantly better than one that is 2% because of math.
-*Employee Stock Purchase Plan (ESPP)
+* Employee Stock Purchase Plan (ESPP)
 You should do this!
 There may be no such thing as a free lunch, but I'm not sure how much closer this can get.  You enroll and contribute (the maximum you can if you're smart) money for a 6 month period.  At the end of that period you get stock at 85% (or a 15% discount) on the lowest of the price at the beginning or end of the offering period1.   This means you are virtually guaranteed at least a 15% gross return every 6 months and given that it's the lowest, likely even more.  Even at the highest tax rates you'll be over 10% net.  There is nothing else that you can do that is this safe with a return anywhere close.
 But!
