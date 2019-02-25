@@ -9,9 +9,9 @@ I graduated so long ago that the basics of how to incorporate into corporate Ame
 
 **Note:** These are my opinions.  Other people might have different ones.  Maybe people like you, so make sure you do your own research and, when in doubt, ask someone who does this stuff for a living.
 
-* [Investing](https://github.com/jotpowers/College-Grads/blob/master/investing.md)
+* [Investing](investing.md)
 * [Healthcare](healthcare.md)
-
+* [Insurance](insurance.md)
 
 ### Employee Stock Purchase Plan (ESPP)
 You should do this!
