@@ -1,4 +1,5 @@
-# Health care
+# Healthcare (or Health Care or "Wow, I hate this")
+
 One of the first questions "What is up with all these confusing options?"
 Congratulations, you're young.  That means you probably don't have a lot of medical conditions that you have to worry about.  Pieces haven't started falling off and Boy Scouts aren't offering to shepherd you across the street.  But, now that you are adulting, you should consider things like:
 * Annual physicals
