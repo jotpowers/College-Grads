@@ -13,5 +13,5 @@ I graduated so long ago that the basics of how to incorporate into corporate Ame
 * [Insurance](insurance.md) - Primarily around life insurance for now
 * [Retirement](retirement.md) - Specific vehicles (not transportation) that you use to make investments
 * [Investing](investing.md) - Investment:  Discussion on the specific asset classes that you put money into
-** [Real Estate](realestate.md) - One of the investing options, in depth
+  * [Real Estate](realestate.md) - One of the investing options, in depth
 
