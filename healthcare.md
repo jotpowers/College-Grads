@@ -1,12 +1,17 @@
 # Healthcare (or Health Care or "Wow, I hate this")
 
 One of the first questions "What is up with all these confusing options?"
+
 Congratulations, you're young.  That means you probably don't have a lot of medical conditions that you have to worry about.  Pieces haven't started falling off and Boy Scouts aren't offering to shepherd you across the street.  But, now that you are adulting, you should consider things like:
+
 * Annual physicals
 * Dental care
 * Being able to see
 
 ## Medical
+
+The U.S. medical system is a marvel among industrialized countries.  No other country comes even close to us for the amount of money we spend and the outcomes we get from it.  Sadly, it's because they all spend way less money and get way better outcomes, but hey, how am I ever going to get elected telling the truth?
+
 ### General considerations
 Medical generally falls into two categories (but now there is a third one.  yay.)
 
@@ -16,7 +21,7 @@ Medical generally falls into two categories (but now there is a third one.  yay.
 
 #### Health Maintenance Organization (HMO)
 * Good news:  Lower copays.  Lower annual costs.
-* Bad news:  You have to choose a PCP (sadly, not the recreational drug) and then go to that person first for all visits to specialists.
+* Bad news:  You have to choose a PCP (sadly, not the recreational drug, but instead a Primary Care Physician) and then go to that person first for all visits to specialists.
 
 ##### Consumer Directed Health Savings Plan (CDHSP)
 
@@ -30,8 +35,11 @@ The same way you do anything else nowadays.  Research on the internet and ask co
 I started out with a PPO when it was just my wife and myself.  The flexibility was awesome.  However, when the Powers family started to grow we looked at the expense of having our first child and an HMO saved us ~$3k in a single year, so we switched and haven't gone back.
 
 ## Dental
-Almost everyone has teeth.  Almost all dental plans will not cover you fully for any major problems and your options are limited.  Choose one and it doesn't matter much.
-BUT, make sure you start getting dental cleanings every six months.  Dental health is a keystone health issue.  It is predictive and causal for increased problems things like heart disease, stroke and chewing solid food.
+Almost everyone has teeth.  Almost all dental plans will not cover you fully for any major problems and your options are limited.  Choose one, *BUT* make sure you start getting dental cleanings every six months.  Dental health is a keystone health issue.  It is predictive and causal for increased problems things like heart disease, stroke and chewing solid food.
+
+Sometimes there are different plans with slightly different options.  Normally it's about whether or not the plan covers braces (a.k.a. orthodonics).  If you're not getting them, or you don't have kids getting them in the next year, probably go with the less expensive one.
 
 ## Vision
-Much like dental, there aren't any great options and it's just about reducing your overall costs.   The only caveat being if you're going to do something like LASIK.  One of the plans is evidently better than the other, but I'm not, so you're on your own to figure that out.  Once you do, feel free to edit this section.
+Much like dental, there aren't any great options and it's just about reducing your overall costs.   
+
+Sometimes there are different plans that cover things like LASIK.  If you're going to get that done, then maybe consider that plan.  If you're not, well then, maybe you'll figure out your other options
