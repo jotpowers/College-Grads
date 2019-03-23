@@ -13,6 +13,8 @@ For debt, the only way to lose it is to spend less than you make.  The only way 
 
 # Get Rich Not-So-Quick
 
+>"Time in the market is more important than timing the market." -Unknown
+
 Starting out, I’m going to make some broad statements.  For now, take them at face value.  I’ll provide the in-depth analysis with sources later, but at this point it would probably be distracting.
 
 Human beings are terrible at investing.  Probably worse about writing about investing, but let’s ignore that.  There are probably a lot of well documented psychological explanations for it, but I like to blame our stupid monkey-brains.  Money is an abstract concept, and we’re better at dealing with concrete items. But even as we get better at dealing with the fact that the numbers on a piece of paper matter, we get worse at separating our emotions from our money.  When you see your investments decrease you experience real regret.   For most people the bad emotions from loss are greater than the satisfaction with seeing gains ([Paz, 2012](https://www.ncbi.nlm.nih.gov/pubmed/22553036)). The result is that people are likely to sell when things are going down, and buy only when they see them going up, which honestly doesn’t sound that bad.   The net effect is that you fail to minimize your losses and you miss the times of greatest gains.  If you missed 10 specific days in the stock market from 1993 to 2003 you missed nearly 50% of the gain.  ([Ro, 2014](https://www.businessinsider.com/cost-of-missing-10-best-days-in-sp-500-2014-3))
@@ -37,6 +39,8 @@ Like every good internet flamewar, there are some great back and forths.  Over a
 > “The investors who inhabit the real world and those who populate academic models are distant cousins. In theory, investors hold well diversified portfolios and trade infrequently so as to minimize taxes and other investment costs. In practice, investors behave differently. They trade frequently and have perverse stock selection ability, incurring unnecessary investment costs and return losses. They tend to sell their winners and hold their losers, generating unnecessary tax liabilities. Many hold poorly diversified portfolios, resulting in unnecessarily high levels of diversifiable risk, and many are unduly influenced by media and past experience. Individual investors who ignore the prescriptive advice to buy and hold low-fee, well-diversified portfolios, generally do so to their detriment. “ (Barber, 2011)
 
 There is also a great table at the end of the paper titled “Table 1: Summary of Articles on the Performance of Individual Investors” that does a good job of summarizing a wide variety of papers.
+
+Finally, recognize even if you are the [World's Worst Market Timer](https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/), as long as you stay in the market, you'll be ok. 
 
 # What to do
 Now, knowing all of these things is the key to maximizing your chances of retiring in luxurious comfort.  Here’s how.
