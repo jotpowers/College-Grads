@@ -9,6 +9,7 @@ I graduated so long ago that the basics of how to incorporate into corporate Ame
 
 **Note:** These are my opinions.  Other people might have different ones.  Maybe people like you, so make sure you do your own research and, when in doubt, ask someone who does this stuff for a living.
 
+* [Introduction](introduction.md) - Probably a good place to start
 * [Healthcare](healthcare.md) - Navigating the U.S. healthcare setup
 * [Insurance](insurance.md) - Primarily around life insurance for now
 * [Retirement](retirement.md) - Specific vehicles (not transportation) that you use to make investments
