@@ -2,7 +2,7 @@
 
 The information in here started when I had several RCGs that were starting to work for me.  Now, some of it was very specific to the company I was working for, but over time, it because a document that people were referring to for a lot of different things, primarily due to the finance information/opinions in it.
 
-Then it grew to the point where I decided it probably needed to be crowdsourced, but the discussion was how.  And now we have it on Github.
+Then it grew to the point where I decided it probably needed to be crowdsourced, but the discussion was how.  And now we have it on Github.  Yes, I'll take pull requests.  
 
 # Overview
 I graduated so long ago that the basics of how to incorporate into corporate America are so second nature that I forget about all the questions I had at the time.  So, here are the thoughts that I find myself distilling down for my RCGs when they join the team.
