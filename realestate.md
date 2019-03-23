@@ -19,7 +19,7 @@ It turns out, finding data on these things for long periods of time, is kind of 
 
 ## Result
 
-![Real Estate vs Single Family Homes](re-vs-sfh.png)
+![Real Estate vs Single Family Homes](Images/re-vs-sfh.png)
 
 There is a lot going on in this chart, so I’ll try to summarize:
 * Solid red line: Real estate value
