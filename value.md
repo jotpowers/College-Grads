@@ -35,6 +35,7 @@ Before we can dig into some of the more complicated calculations, there are a co
 
 If you have $100 right now, you could invest it and get 10%, and in one year it would be worth $110.  But if you get that $100 in one year, then it’s still only $100, which means it is not as valuable, because $110 is greater than $100, even for very large values of $100.
 
+*finish this*
 
 ## Net Present Value (NPV)
 

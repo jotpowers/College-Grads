@@ -1,4 +1,4 @@
-# Information for Recent College Graduates
+# Information for Recent College Graduates (which has morphed into "Introduction to Investing")
 
 The information in here started when I had several RCGs that were starting to work for me.  Now, some of it was very specific to the company I was working for, but over time, it because a document that people were referring to for a lot of different things, primarily due to the finance information/opinions in it.
 
