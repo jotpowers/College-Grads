@@ -16,4 +16,5 @@ I graduated so long ago that the basics of how to incorporate into corporate Ame
   * [Equities](equities.md) - Discussion on the specific asset classes that you put money into (Note:  I need to clean this up )
   * [Real Estate](realestate.md) - One of the investing options, in depth
   * [Liquidity](liquidity.md) - Discussion on the premium you should get for not having easy access to your money.
+  * [Personal Results](results.md) - Personal example (so N=1) of actual results using these strategies
 
