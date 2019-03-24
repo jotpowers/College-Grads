@@ -22,3 +22,5 @@ So, I went online and gathered the period and rate of return for CDs across many
 |5|2.25%|54.11%|10.82%|
 
 Summary:  There appears to be about a 10% premium per year of hold time.  In other words, if you were going to get a 10% return for 1 year, for 2 years it’s likely you’d get 11% (10% of 10% is 1%, added to the existing 10%).
+
+![CD rates of return](Images/liquidity-cd-rates.png)
