@@ -16,7 +16,7 @@ Here is the logic behind that viewpoint.
 
 All of that is true.  Heck, it might even work out better for you, but, don't confuse good outcomes with good decision making.  If you have large portions of your assets in the company, and they're responsible for your salary, healthcare insurance and who knows what else, and it all goes away, you'll be financially devastated for a very long time.  To illustrate my point, consider the following stock graph:
 
-![Comparison of Two Stocks](espp-comparison.png)
+![Comparison of Two Stocks](Images/espp-comparison.png)
 
 This is the stock price comparison, over the space of several years of two different companies.  One is a large on-line financial services company that you could make an educated guess on.  Still doing well.  Stock has continued to climb, with happy employees.
 
