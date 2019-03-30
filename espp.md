@@ -20,7 +20,7 @@ All of that is true.  Heck, it might even work out better for you, but, don't co
 
 This is the stock price comparison, over the space of several years of two different companies.  One is a large on-line financial services company that you could make an educated guess on.  Still doing well.  Stock has continued to climb, with happy employees.
 
-The other is Enron.
+The other is Enron.  That blue line continued all the way to 0.
 
 You'll notice, that for years, as an employee, you would have no way to distinguish one from the other.
 
