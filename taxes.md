@@ -17,7 +17,9 @@ When you sell stock (including ESPP) or RSUs you will get a form (I think it’s
 
 **BUT** it doesn’t show any taxes you might have paid on the acquisition, so that your cost basis is actually higher and thus your tax gain and liability is less.
 	
-## Note:  Ok so I wrote this a while ago, and then I read it, and I realized it's 100% true, but not necessarily helpful.  So, let me try to fix that. 
+## Note  
+
+Ok so I wrote this a while ago, and then I read it, and I realized it's 100% true, but not necessarily helpful.  So, let me try to fix that. 
 * You sell 10 RSUs for $10.  10 * 10 = $100 in total sale.  If your "cost basis" (the amount that it cost you to get that) is $0, the $100 is gain, and probably, short term, which means you pay your standard tax rate.  That'll be a big number, and sometimes your brokerage says your cost basis was $0.
 * But, when you do that sale you immediately recognize income on it (because the company forces you to) and on your pay stub will say something like "$110" in W2 income, which is now your cost basis.  Now, instead of having a gain of $100 ($100 - $0) , you have a "loss" of $10 ($100 - $110), and your taxes will be dramatically changed.
 * So, you can go from a paper gain of a large number ($100) to a small paper loss ( -$10 ) which could make a several hundred/thousand dollar change in your out of pocket, so pay attention.

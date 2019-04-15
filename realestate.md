@@ -74,7 +74,7 @@ If at this point you're saying to yourself, "Self, this is crazy complex!"  You'
 
 **Summary** 
 
-It is important to actually quantify this is real numbers and to take a shot at that I'm going to use the numbers I have layed out over in [Real Estate](realestate.md).
+It is important to actually quantify this is real numbers and to take a shot at that I'm going to use the numbers I have laid out over in [Real Estate](realestate.md).
 
 * Stock Market: 7.2%
 * Real estate: 6.9%
