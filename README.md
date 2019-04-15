@@ -17,4 +17,5 @@ I graduated so long ago that the basics of how to incorporate into corporate Ame
   * [Real Estate](realestate.md) - One of the investing options, in depth
   * [Liquidity](liquidity.md) - Discussion on the premium you should get for not having easy access to your money.
   * [Personal Results](results.md) - Personal example (so N=1) of actual results using these strategies
+* [Taxes](taxes.md) - High level overview of taxes.  Not sure where this is going to end up longer term.
 
