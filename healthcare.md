@@ -8,6 +8,19 @@ Congratulations, you're young.  That means you probably don't have a lot of medi
 * Dental care
 * Being able to see
 
+# Summary 
+
+Ok, I explained this in excruciating detail.  Problem with that:  It's excruciating.  So, here is a summary:
+
+* Sign up for the PPO
+  * Find a doctor from friends or Google
+* Sign up for the *expensive* dental
+* Sign up for the *expensive* vision
+* If you have a flexible spending account:  
+  * Put a few hundred to cover glasses/co-pays in to gain some tax advantage.
+
+If you need more than that, you're going to need to read the rest of this.
+
 ## Medical
 
 The U.S. medical system is a marvel among industrialized countries.  No other country comes even close to us for the amount of money we spend and the outcomes we get from it.  Sadly, it's because they all spend way less money and get way better outcomes, but hey, how am I ever going to get elected telling the truth?
