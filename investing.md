@@ -54,5 +54,3 @@ So, you will invest in the market and then you will ignore your investments for 
 
 * I watch my investments when the stock market is going up and I ignore them when it is going down.
 
-
-
