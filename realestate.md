@@ -56,7 +56,7 @@ I'm going to necessarily simplify this discussion.  Primarily because I'm a simp
 * Active:  This is where you own the real estate and actively manage it.  You are responsible for finding tenants or hiring people to find them.  You have direct control of the assets.
 * Passive:  You are a partner in a company that manages real estate.  Normally, as an investor, you are a Limited Partner (LP) in which the General Partner (GP) does the active portion.
 
-I have no desire to do active management.  This can be lucrative (or not, like everything else) but the amount of time and energy it can end up taking is more than I'm willing to put into it.  As a result, I'm not going to address this asset class.
+I have no desire to do active management.  This can be lucrative (or not, like everything else) but the amount of time and energy it can end up taking is more than I'm willing to put into it.  Primarily because I have a day job and limited intellectual energy.  Look at that as more of a me problem. The result is that I'm not going to address this asset class.
 
 Regardless, in both of these cases, the thing that makes real estate attractive is depreciation.  Depreciation is the amount of value something loses due to wear and tear or age.  Cars depreciate when you drive them off the lot.  Buildings depreciate the older they get, on the assumption that you're going to have to spend money fixing things.  Because of this, you end up having an asset that is (in theory) going down in value.  That loss of value you get to report on your taxes!  
 
