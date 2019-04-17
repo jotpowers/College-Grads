@@ -16,7 +16,7 @@ The math behind this is super simple:
 
 At the end of the year, if 1 > 2 you have to pay.  If 2 < 1, then you get money returned to you.  
 
-Don't overthink it.
+Don't overthink it.  Your only real lever is #1, in which case, outright fraud is your best option.  I kid.  Al Capone tried that and he died of syphilis at Alcatraz.  So, instead, focus on doing the best you can and let taxes work themselves out.  Be cognizant of them, but don't let they drive your investment decisions.
 
 # Restricted Stock Units (RSUs) & Taxes
 
