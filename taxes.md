@@ -8,6 +8,16 @@ Really what you care about at the end of the day is:  How can I maximize the amo
 
 If I have an investment that makes 10% and I have to give 1% of that to the government (netting me 9%), that is better than an investment that nets me 8% that I have to give 0% of that to the government.  The most common asset that people consider is [Real Estate](realestate.md), so I'll delve more into the tax aspects of that, [over there](realestate.md#taxes).
 
+Additionally, you should never worry about "How much do I owe?"
+
+The math behind this is super simple:
+1. How much does the government think I owe?
+2. How much as been withheld?  
+
+At the end of the year, if 1 > 2 you have to pay.  If 2 < 1, then you get money returned to you.  
+
+Don't overthink it.
+
 # Restricted Stock Units (RSUs) & Taxes
 
 This may or may not be useful to you.  You probably already know all this, but just in case, Happy Tax day.
