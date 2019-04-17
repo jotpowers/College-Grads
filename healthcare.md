@@ -17,7 +17,7 @@ Ok, I explained this in excruciating detail.  Problem with that:  It's excruciat
 * Sign up for the *expensive* dental
 * Sign up for the *expensive* vision
 * If you have a flexible spending account:  
-  * Put a few hundred to cover glasses/co-pays in to gain some tax advantage.
+  * Put a few hundred dollars in to cover glasses/co-pays for a tax advantage
 
 If you need more than that, you're going to need to read the rest of this.
 
