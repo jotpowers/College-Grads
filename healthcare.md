@@ -53,7 +53,7 @@ The idea is to (sort of) remove insurance costs from the equation, and instead a
 So, if you are young and healthy, this is can be a great plan.  It allows you another vehicle to mitigate taxes and you're unlikely to be sick.  
 
 * Good news: You have complete control over your budget.  Money can be used tax free.
-* Bad news:  You might feel inclined to avoid preventative medical costs, which is more costly in the long run.  This will have the highest on-going costs and the highest maximum out-of-pocket.  Generally it is still part of insurance, so you still get negotiated rates.
+* Bad news:  You might feel inclined to avoid preventative medical costs, which is more costly in the long run. As a matter of fact, [this is exactly what happens](https://www.npr.org/sections/health-shots/2019/04/18/713887452/high-deductible-health-policies-linked-to-delayed-diagnosis-and-treatment). This will have the highest on-going costs and the highest maximum out-of-pocket.  Generally it is still part of insurance, so you still get negotiated rates.
 
 ### Finding a Doctor
 The same way you do anything else nowadays.  Research on the internet and ask co-workers if they have someone they particularly like.
