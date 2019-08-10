@@ -3,7 +3,7 @@
 ## Correlation between real estate and the equities market
 
 Some of the strongest held beliefs is that real estate
-* Has a higher rate of return that equities
+* Has a higher rate of return than equities
 * Is more recession resistant 
 * Does not correlate with the stock market
 
