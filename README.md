@@ -13,7 +13,8 @@ I graduated so long ago that the basics of how to incorporate into corporate Ame
 * [Insurance](insurance.md) - Primarily around life insurance for now
 * [Retirement](retirement.md) - Things to think about from a lifestyle perspective.  What do you hold your investments in?
 * [Investing](investing.md) - "Truths" of investing and market timing
-  * [Equities](equities.md) - Discussion on the specific asset classes that you put money into (Note:  I need to clean this up )
+  * [Equities](equities.md) - Discussion on the specific asset classes that you put money into 
+     * More detailed (but perhaps overly simple) discussion on the [stock market](stock-market.md)
   * [Real Estate](realestate.md) - One of the investing options, in depth
   * [Liquidity](liquidity.md) - Discussion on the premium you should get for not having easy access to your money.
   * [Personal Results](results.md) - Personal example (so N=1) of actual results using these strategies
