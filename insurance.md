@@ -29,9 +29,9 @@ Assume for a moment we have a family with a single income, and the prototypical 
 This will vary greatly, but again, you should probably focus on the big items
 * How much do you spend now?
 * Do you have large expenses that need to be covered?
-* Mortgage
-* College
-* Medical expenses
+  * Mortgage
+  * College
+  * Medical expenses
 
 # Life insurance options
 I’ll provide a very quick, very concise summary:  You should only get Term Life.  Anything else will result in less money for you, and more money for people who sell it.
