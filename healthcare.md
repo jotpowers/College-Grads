@@ -42,7 +42,7 @@ Medical generally falls into a few categories.
 * Good news:  Lower copays.  Lower annual costs. Lower maximum out-of-pocket.
 * Bad news:  You have to choose a PCP (sadly, not the recreational drug, but instead a Primary Care Physician) and then go to that person first for all visits to specialists.
 
-##### Consumer Directed Health Plan (CDHP)
+#### Consumer Directed Health Plan (CDHP)
 
 Things I can not make up.  A [CDHP is a HDHP with an HSA](https://www.hca.wa.gov/employee-retiree-benefits/public-employees/health-plans-health-savings-accounts-hsas).  I hope that really clears it up for you.   HDHP == High Deductible Health Plan.  HSA == Health Savings Account.
 
