@@ -1,6 +1,6 @@
 # Stock Market (a.k.a. Equities)
 
-If you’re investing, chances are, you’re invested in the “stock market”.  This is probably the most common way, world-wide to invest.  But, what exactly does that mean>
+If you’re investing, chances are, you’re invested in the “stock market”.  This is probably the most common way, world-wide to invest.  But, what exactly does that mean?
 
 ## What is a stock?
 A stock is fractional ownership in a company.  Which explains exactly very little, so let’s dig in a bit more.
