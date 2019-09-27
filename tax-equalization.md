@@ -4,7 +4,7 @@
 
 I was part of a program where we were lucky enough to be able to work internationally for six months.  However, one of the challenges with that is the recognition that you're now dealing with the complications of international taxes, or taxes at a location that are different from your home location.  Relocation is supposed to be tax neutral.  You should neither owe or be owed more due to your relocation.  In my experience, the tax accountants ability to be able to explain how this is calculated, can be described as inadequate at best.  At worst it's gross incompetence.  If you're lucky they'll explain how A - B = C.
 
-*Note:*  There is an attached spreadsheet to help you with the US calculations.  (Also note:  I haven't added it yet)
+*Note:*  There is also a basic [spreadsheet available](References/tax-equal.xlsx).
  
 # United States
  
