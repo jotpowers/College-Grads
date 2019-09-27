@@ -39,6 +39,7 @@ But this includes that taxable gross-up.  If we remove it, what do we get?
 Your hypothetical W-2 is simply your actual W-2 minus Relocation Taxable Gross-Up.  ($100,000 - $15,000)
 
 Hypothetical W-2|$85,000
+---|---
 20%|$17,000
 5%|$4,250
 Total liability|$21,250
@@ -63,8 +64,9 @@ Congratulations, you owe your company $1,250
 Obviously if the Taxes paid to the government are less than the difference between your Total tax liability and the Hypothetical tax liability, your company would pay you.  For instance if we change our numbers to:
 * Relocation Taxable Gross-Up: $15,000
 * Relo Gross Up Offset: $14,000
+
 Suddenly Taxes paid to the government = $1,000
-*$25,000 - $21,250 - $1,000 = $2,750 (that your company would pay you)
+* $25,000 - $21,250 - $1,000 = $2,750 (that your company would pay you)
 
 # United Kingdom
 
