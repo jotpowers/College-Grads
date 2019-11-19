@@ -59,7 +59,7 @@ So, if you are young and healthy, this is can be a great plan.  It allows you an
 The same way you do anything else nowadays.  Research on the internet and ask co-workers if they have someone they particularly like.
 
 ##### Anecdote
-I started out with a PPO when it was just my wife and myself.  The flexibility was awesome.  However, when the Powers family started to grow we looked at the expense of having our first child and an HMO saved us ~$3k in a single year, so we switched and haven't gone back.
+I started out with a PPO when it was just my wife and myself.  The flexibility was awesome.  However, when the Powers family started to grow we looked at the expense of having our first child and an HMO saved us ~$3k in a single year, so we switched but over time our employer options have forces more towards PPO/CDHP.
 
 ## Dental
 Almost everyone has teeth.  Almost all dental plans will not cover you fully for any major problems and your options are limited.  Choose one, *BUT* make sure you start getting dental cleanings every six months.  Dental health is a keystone health issue.  It is predictive and causal for increased problems things like heart disease, stroke and chewing solid food.
