@@ -4,6 +4,9 @@ The information in here started when I had several RCGs that were starting to wo
 
 Then it grew to the point where I decided it probably needed to be crowdsourced, but the discussion was how.  And now we have it on Github.  Yes, I'll take pull requests.  
 
+# tl;dr
+I've created that over in the (simple version)[simple.md] if you just want to get started.  This will give you 90% of the value at about 10% of the effort.
+
 # Overview
 I graduated so long ago that the basics of how to incorporate into corporate America are so second nature that I forget about all the questions I had at the time.  So, here are the thoughts that I find myself distilling down for my RCGs when they join the team.
 
@@ -18,5 +21,5 @@ I graduated so long ago that the basics of how to incorporate into corporate Ame
   * [Real Estate](realestate.md) - One of the investing options, in depth
   * [Liquidity](liquidity.md) - Discussion on the premium you should get for not having easy access to your money.
   * [Personal Results](results.md) - Personal example (so N=1) of actual results using these strategies
-* [Taxes](taxes.md) - High level overview of taxes.  Not sure where this is going to end up longer term.
+* [Taxes](Taxes/taxes.md) - High level overview of taxes.  Not sure where this is going to end up longer term.
 
