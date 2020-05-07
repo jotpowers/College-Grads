@@ -4,7 +4,7 @@ The "overview" can be overwhelming, so I'm going to try to distill it down into 
 
 * [Healthcare](simple.md#Healthcare)
 * [Retirement](simple.md#Retirement)
-* [Life Insurance](simple.md#Life Insurance)
+* [Life Insurance](simple.md#Insurance)
 
 # Healthcare
 
@@ -44,7 +44,7 @@ Invest it in the option that is available to you that is closest to VTSAX, which
   * [Personal Results](results.md) - Personal example (so N=1) of actual results using these strategies
 * [Taxes](Taxes/taxes.md) - High level overview of taxes.  Not sure where this is going to end up longer term.
 
-# Life insurance
+# Insurance
 
 Sign up for the maximum the company offers that you don't have to do a physical for.  It will be enough in the short term, and that would provide a good amount to your survivors.
 
