@@ -2,17 +2,23 @@
 
 I know a lot of these discussions seem a little abstract, and it’s really easy to read what people say you should do, but what do they do, and does it work?  So, to that end, here is what I do.
 
+**Note:  Updated in late 2020 for how my portfolio has changed.  Look at file history to see what it was and the evolution of thought.
+
 ## Investments
 
-* I invest in modified Three Fund portfolios.  My modification on them is to replace the bond portion of the portfolios with a target date fund.  This has the net effect of making my investments more aggressive but trending towards more conservative.  This mirrors my general approach on things, which is more aggressive than most.
-* My 401K is a Roth 401k.  I have discussion on the various trade-offs over in [retirement](retirement.md), but my primary reason is because I want to simplify retirement.  Even if the tradeoffs mean I would have been better off in a traditional 401k, I've eliminated complexity when I am retired on how I have to deal with the money.
-* I have a handful of "passive" [real estate](realestate.md) investments.  
-* I invest in traditional IRAs.
+* Most of my investments are in low-cost broad index funds.  In particular I own VTSAX in a brokerage account and VIIX in my 401k (because it's the best available option).  This represents rougly 2/3rds of my market portfolio.
+* I'm putting more money into VEU because I'm higher on the risk side of the [efficient frontier](https://www.investopedia.com/terms/e/efficientfrontier.asp) than I need to be, so will slowly add there.
+* I have the remaining 1/3rd in low cost index bond funds.  In partidular VBTIX. I'm more heavily weighted here than I have been in the past because I'm less tolerant of volatility as I get closer to retirement.
+* My 401k is a traditional (i.e. pre-tax) 401k.  This is change because as I've looked at my retirement plans, the chances that my post retirement tax rate will be even close to my W-2 rate is miniscule.  So, I'd rather get the advantage of saving the taxes now.
+* I have a handful of "passive" [real estate](realestate.md) investments.  I'm slowly unwinding these because I don't see the advantages vs the risk potential of loss.  I have enjoyed the income showing up in my account, but still not worth it to me.
+* I utilize both backdoor Roths and Mega Backdoor Roths (worst bandname ever).
+** My company 401k changed to allow me to roll all existing IRAs into my 401k to allow me to escape the pro-rata rule.  (I also mistakenly rolled in post-tax dollars, which you should avoid.  If you don't know what that means, this is your clue to do more research.)
+** The 401k also allows for me to do after-tax contributions that I can then roll into a Roth 401k (this is the mega backdoor).
+** I contribute the maximum amount possible to a traditional IRA at the beginning of the year and then convert it to Roth (backdoor Roth).
 
 # What I'm Going to Do
 
 * I expect over the next few years I will unwind all of the real estate because I don't see that the return is better than equities, the risk is higher, the liquidity is lower and it's not as interesting to me.
-* I'm going to work on using "Backdoor Roths".  This takes some work given traditional IRAs, but shouldn't be that difficult, just tedious.  Google it to be even more confused than you expected.
 
 # What I Did
 
