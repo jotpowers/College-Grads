@@ -1,7 +1,7 @@
 ---
 id: overview
-title: Introduction
-sidebar_label: Introduction
+title: Overview
+sidebar_label: Overview
 ---
 # Information for Recent College Graduates (which has morphed into "Introduction to Investing")
 
