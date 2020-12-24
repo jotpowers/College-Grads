@@ -25,7 +25,7 @@ Starting out, I’m going to make some broad statements.  For now, take them at 
 
 Human beings are terrible at investing.  Probably worse about writing about investing, but let’s ignore that.  There are probably a lot of well documented psychological explanations for it, but I like to blame our stupid monkey-brains.  Money is an abstract concept, and we’re better at dealing with concrete items. But even as we get better at dealing with the fact that the numbers on a piece of paper matter, we get worse at separating our emotions from our money.  When you see your investments decrease you experience real regret.   For most people the bad emotions from loss are greater than the satisfaction with seeing gains ([Paz, 2012](https://www.ncbi.nlm.nih.gov/pubmed/22553036)). The result is that people are likely to sell when things are going down, and buy only when they see them going up, which honestly doesn’t sound that bad.   The net effect is that you fail to minimize your losses and you miss the times of greatest gains.  If you missed 10 specific days in the stock market from 1993 to 2003 you missed nearly 50% of the gain.  ([Ro, 2014](https://www.businessinsider.com/cost-of-missing-10-best-days-in-sp-500-2014-3))
  
-![Don't try to time the market](Images/market-timing.png)
+![Don't try to time the market](assets/market-timing.png)
 
 Even without looking at specific stocks, the same is true for broader funds.  Although funds have published gains of 12%, most people make way less than that due to buying high and selling low.
 
