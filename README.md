@@ -5,7 +5,7 @@ sidebar_label: Overview
 ---
 # Information for Recent College Graduates (which has morphed into "Introduction to Investing")
 
-> *Note*:  If you're reading this via straight Github, it is also now available in a slightly easier to read format at [jotpowers.github.io](https://jotpowers.github.io/ds/docs/introduction).  This is as a result of Vidit opening [this issue](https://github.com/jotpowers/College-Grads/issues/1).
+> *Note*:  If you're reading this via straight Github, it is also now available in an easier to read format at [jotpowers.github.io](https://jotpowers.github.io/ds/docs/introduction).  This is as a result of Vidit opening [this issue](https://github.com/jotpowers/College-Grads/issues/1).
 
 
 The information in here started when I had several RCGs that were starting to work for me.  Now, some of it was very specific to the company I was working for, but over time, it because a document that people were referring to for a lot of different things, primarily due to the finance information/opinions in it.
