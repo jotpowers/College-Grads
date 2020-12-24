@@ -3,7 +3,7 @@ id: wid
 title: What I Do
 sidebar_label: What I Do
 ---
-# What I Do
+## What I Do
 
 I know a lot of these discussions seem a little abstract, and it’s really easy to read what people say you should do, but what do they do, and does it work?  So, to that end, here is what I do.
 
@@ -21,11 +21,11 @@ I know a lot of these discussions seem a little abstract, and it’s really easy
   * The 401k also allows for me to do after-tax contributions that I can then roll into a Roth 401k (this is the mega backdoor).
   * I contribute the maximum amount possible to a traditional IRA at the beginning of the year and then convert it to Roth (backdoor Roth).
 
-# What I'm Going to Do
+## What I'm Going to Do
 
 * I expect over the next few years I will unwind all of the real estate because I don't see that the return is better than equities, the risk is higher, the liquidity is lower and it's not as interesting to me.
 
-# What I Did
+## What I Did
 
 * I used to have individual stocks.  I bought them nearly 20 years ago when I had the hubris to think that I could be good at picking stocks.  I finally liquidated all of them, and the results are about what you would expect.
   * I lost money outright on one.
@@ -35,7 +35,7 @@ I know a lot of these discussions seem a little abstract, and it’s really easy
 
 So, in summary, I had random results and had some good outcomes and bad outcomes, but the decision making process was suspect at best.
 
-# Sample Results
+## Sample Results
 
 I worked for a company from September of 2003 until May of 2006.  In that time, I contributed to my 401k, entirely into index funds.  (Maybe not the best ones, but we all learn).  I haven’t rolled this over to something else, so it provides a great view into a single long-term investment.
 
@@ -43,7 +43,7 @@ The thin line at the bottom is my total contributions.  The blue line at the top
 
 My cumulative personal return is just under 175%, which annualizes to 6%.  
 
-![Personal Results](Images/results.png)
+![Personal Results](assets/results.png)
 
 You’ll notice that when the Great Recession hit in 2008, the value of the portfolio was actually worth less than the amount of money I had put in.  But, in less than 2 years it had recovered and it took nearly 6 years to recover to the highs of 2007, but it has continued to climb.
 
