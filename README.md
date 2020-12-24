@@ -19,14 +19,9 @@ I graduated so long ago that the basics of how to incorporate into corporate Ame
 
 **Note:** These are my opinions.  Other people might have different ones.  Maybe people like you, so make sure you do your own research and, when in doubt, ask someone who does this stuff for a living.
 
-* [Healthcare](healthcare.md) - Navigating the U.S. healthcare setup
-* [Insurance](insurance.md) - Primarily around life insurance for now
-* [Retirement](retirement.md) - Things to think about from a lifestyle perspective.  What do you hold your investments in?
-* [Investing](investing.md) - "Truths" of investing and market timing
-  * [Equities](equities.md) - Discussion on the specific asset classes that you put money into 
-     * More detailed (but perhaps overly simple) discussion on the [stock market](stock-market.md)
-  * [Real Estate](realestate.md) - One of the investing options, in depth
-  * [Liquidity](liquidity.md) - Discussion on the premium you should get for not having easy access to your money.
-  * [Personal Results](results.md) - Personal example (so N=1) of actual results using these strategies
-* [Taxes](Taxes/taxes.md) - High level overview of taxes.  Not sure where this is going to end up longer term.
+I've struggled over time with how to organize this.  As an example, investing is something you do in retirement accounts and in other ways, so where does it belong? My current plan is to break it up into:
 
+* Brief introduction (this)
+* [Spending](spending.md) - Things you have to spend money on
+* [Saving](saving.md) - Order of how to save money
+* [Investing][investing.md] - Details of where your money could be in either Spending or Saving.
