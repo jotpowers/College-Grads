@@ -1,3 +1,8 @@
+---
+id: insurance
+title: Life Insurance
+---
+
 # End of life
 
 Contemplating how this universe works after we’re no longer part of it, is an uncomfortable process for just about everyone.  The result of it being uncomfortable means that a lot of people simply attack the problem by avoiding it.  Which is a terrible choice.  So, it’s time to pull on your big people britches and start adulting.

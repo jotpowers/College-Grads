@@ -1,6 +1,11 @@
+---
+id: realestate 
+title: Real Estate
+sidebar_label: Real Estate
+---
 # Real Estate
 
-## Correlation between real estate and the equities market
+## Correlation with [equities](equities.md). 
 
 Some of the strongest held beliefs is that real estate
 * Has a higher rate of return than equities
@@ -49,7 +54,7 @@ Not so fast.  This is one of those cases where it’s not a simple decision, so 
 * Liquidity:  Hold times are normally longer than 5 years, so you have to realize you’re giving up access to that money for the entire time.
 Uncertainty:  It’s a new asset class to you, and due to the long hold times, you can’t go ‘full cycle’ before investing more money.
 
-## <a name="taxes">Taxes</a>
+## Taxes
 
 I'm going to necessarily simplify this discussion.  Primarily because I'm a simpleton in the space, so can only talk to the pieces I *think* I understand.  There are several classifications of real estate, but I'm only going to discuss two for now (and really I'm skipping one of those):
 

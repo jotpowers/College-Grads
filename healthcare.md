@@ -1,3 +1,7 @@
+---
+id: healthcare
+title: Healthcare
+---
 # Healthcare (or Health Care or "Wow, I hate this")
 
 One of the first questions "What is up with all these confusing options?"

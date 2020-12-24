@@ -1,3 +1,8 @@
+---
+id: investing
+title: Investing
+---
+
 # Laws of Physics
 Here are some laws of physics for investing.  Ok, they’re not really Newton-esqe, but they’re true enough that you should pay attention to them.
 

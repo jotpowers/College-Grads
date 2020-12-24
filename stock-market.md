@@ -1,3 +1,7 @@
+---
+id: stock-market 
+title: Stock Market
+---
 # Stock Market (a.k.a. Equities)
 
 If you’re investing, chances are, you’re invested in the “stock market”.  This is probably the most common way, world-wide to invest.  But, what exactly does that mean?
