@@ -4,7 +4,7 @@ title: Overview
 sidebar_label: Overview
 ---
 
-As I look to reorganize I have more details to put here, but starting out, I think the best thing to do is to just provide the
+As I look to reorganize I have more details to put here, but starting out, I think the best thing to do is to just provide the...
 
 ## Flowchart
 
