@@ -12,7 +12,7 @@ So what?
 
 Really what you care about at the end of the day is:  How can I maximize the amount of money that I have?
 
-If I have an investment that makes 10% and I have to give 1% of that to the government (netting me 9%), that is better than an investment that nets me 8% that I have to give 0% of that to the government.  The most common asset that people consider is [Real Estate](realestate.md), so I'll delve more into the tax aspects of that, [over there](/realestate.md#taxes).
+If I have an investment that makes 10% and I have to give 1% of that to the government (netting me 9%), that is better than an investment that nets me 8% that I have to give 0% of that to the government.  The most common asset that people consider is [Real Estate](realestate.md), so I'll delve more into the tax aspects of that, [over there](realestate.md#taxes).
 
 Additionally, you should never worry about "How much do I owe?"
 
