@@ -35,6 +35,7 @@ If you don't need glasses or dental work you're aware of, just put ~$100 in to a
 
 ## Retirement
 
+### 401k 
 Put as much money as you can in your 401k.  Choose the traditional one so that it's pre-tax money and reduces your tax obligation.
 
 Invest it in the option that is available to you that is closest to VTSAX, which is to say, a total market fund with a very low expense ratio.  
@@ -50,9 +51,10 @@ Invest it in the option that is available to you that is closest to VTSAX, which
   * [Personal Results](results.md) - Personal example (so N=1) of actual results using these strategies
 * [Taxes](Taxes/taxes.md) - High level overview of taxes.  Not sure where this is going to end up longer term.
 
-## Insurance
+## Life Insurance
 
-Sign up for the maximum the company offers that you don't have to do a physical for.  It will be enough in the short term, and that would provide a good amount to your survivors.
+### Sign up
+Sign up for the maximum the company offers that you don't have to do a physical for.  It will be enough in the short term, and that would provide a good amount to your survivors and it tends to be cheap.
 
 ### In-depth links
 
