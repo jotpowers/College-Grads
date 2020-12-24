@@ -85,9 +85,9 @@ It is important to actually quantify this is real numbers and to take a shot at 
 * Real estate: 6.9%
 * Difference: .3% absolute or a 4.3% percentage change.
 
-So, if you have a tax rate above 4.3% (Hint: You probably do) choosing a rate of return of 6.9% on something with 0% taxes will net you more money.  At a 20% return, to match the 6.9% net you need your return to get you 8.6%.
+So, if you have a tax rate above 4.3% (Hint: You probably do) choosing a rate of return of 6.9% on something with 0% taxes will net you more money.  At a 20% tax rate, to match the 6.9% net you need your return to get you 8.6%.
 
-... and you're going to have to be willing to work harder to have this asset class work for you.
+... but you're going to have to be willing to work harder to have real estate work for you.
 
 
 ## TBD
