@@ -13,7 +13,7 @@ Congratulations, you're young.  That means you probably don't have a lot of medi
 * Dental care
 * Being able to see
 
-# Summary 
+## Summary 
 
 Ok, I explained this in excruciating detail.  Problem with that:  It's excruciating.  So, here is a summary:
 
@@ -39,15 +39,15 @@ Medical generally falls into a few categories.
 
 * tl;dr:  In general, I think PPO is probably the best option in terms of cost and flexibility, so if you can't make up your mind, choose that.
 
-#### Preferred Provider Organization (PPO)
+### Preferred Provider Organization (PPO)
 * Good news: A PPO allows you to go to any doctor without a referral.  This is awesome because it doesn't mean that you're bottlenecked on first seeing your Primary Care Physician (PCP), getting a referral, then going.
 * Bad news: It is more expensive.  Co-pays (the amount you pay at each visit) are higher and your maximum out-of-pocket for a year also tend to be higher.
 
-#### Health Maintenance Organization (HMO)
+### Health Maintenance Organization (HMO)
 * Good news:  Lower copays.  Lower annual costs. Lower maximum out-of-pocket.
 * Bad news:  You have to choose a PCP (sadly, not the recreational drug, but instead a Primary Care Physician) and then go to that person first for all visits to specialists.
 
-#### Consumer Directed Health Plan (CDHP)
+### Consumer Directed Health Plan (CDHP)
 
 Things I can not make up.  A [CDHP is a HDHP with an HSA](https://www.hca.wa.gov/employee-retiree-benefits/public-employees/health-plans-health-savings-accounts-hsas).  I hope that really clears it up for you.   HDHP == High Deductible Health Plan.  HSA == Health Savings Account.
 
@@ -63,7 +63,7 @@ So, if you are young and healthy, this is can be a great plan.  It allows you an
 ### Finding a Doctor
 The same way you do anything else nowadays.  Research on the internet and ask co-workers if they have someone they particularly like.
 
-##### Anecdote
+### Anecdote
 I started out with a PPO when it was just my wife and myself.  The flexibility was awesome.  However, when the Powers family started to grow we looked at the expense of having our first child and an HMO saved us ~$3k in a single year, so we switched but over time our employer options have forces more towards PPO/CDHP.
 
 ## Dental
