@@ -1,5 +1,5 @@
 ---
 id: after-tax 
 title: After Tax
-sidebar_label: After Tax
+sidebar_label: "After Tax"
 ---
