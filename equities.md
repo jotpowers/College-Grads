@@ -30,15 +30,15 @@ If someone tries to sell you something that is low-risk and high return, walk aw
 
 The other thing that also comes into play is liquidity.  In particular think about things like real-estate which can't be quickly sold, versus cash which doesn't need to be sold.
 
-# What should I invest in?
+## What should I invest in?
 
 You should invest in the assets that aren't going to make you a nervous wreck.  Different people have different tolerances for risk, but really there are two that have a bunch of different options that hopefully work for you.
 
-## Index funds
+### Index funds
 
 Yes.  These have low fees and if you choose the standard stock indices (S&P500, Large Cap, etc...) they have historically good returns.  For specific recommendations, I'd follow the advice of the three fund portfolios listed above.
 
-## Target date
+### Target date
 
 Also yes.  These work by you setting a date that you expect to want to get the money.  They will automatically rebalance the portfolio over time from high return investments to low risk investments so that you get the advantages of growth with planned stability at the end.
 
