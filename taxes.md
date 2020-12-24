@@ -4,7 +4,7 @@ title: Taxes
 sidebar_label: Taxes
 ---
 
-# Taxes
+## Overview
 
 One thing that people misunderstand a lot of time is that the U.S. has a [marginal tax rate system](https://investinganswers.com/financial-dictionary/tax-center/marginal-tax-rate-2136).  This means as you move up tax brackets, only the money in the higher bracket is taxed at that rate.
 
@@ -21,10 +21,9 @@ The math behind this is super simple:
 2. How much as been withheld?  
 
 At the end of the year, if 1 > 2 you have to pay.  If 2 < 1, then you get money returned to you.  
-
 Don't overthink it.  Your only real lever is #1, in which case, outright fraud is your best option.  I kid.  Al Capone tried that and he died of syphilis at Alcatraz.  So, instead, focus on doing the best you can and let taxes work themselves out.  Be cognizant of them, but don't let they drive your investment decisions.
 
-# Restricted Stock Units (RSUs) & Taxes
+## Restricted Stock Units (RSUs) & Taxes
 
 This may or may not be useful to you.  You probably already know all this, but just in case, Happy Tax day.
   **Note:**  For the record, I had to amend 4 years of taxes to fix the fact that I messed this up.  It's not theoretical (OK, it is), but it's 100% something you need to understand, because it's practical too.
