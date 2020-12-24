@@ -3,7 +3,7 @@ id: liquidity
 title: Liquidity
 sidebar_label: Liquidity
 ---
-# Risk vs Reward vs Liquidity
+## Risk vs Reward vs Liquidity
 Ok, so I over-simplified the risk vs reward tradeoff.  There is actually a third leg to the stool, and that’s liquidity.  How fast can you turn your asset into cash?   Although it’s not how a vast majority of these transactions actually go, I like to envision how quickly I could hold the amount in actual bills.  So, let’s look at that spectrum:
 
 * Checking account:  I could go to the bank or even write a check.  Time to cash:  5 minutes.  Amount of interest normally paid:  0
@@ -28,4 +28,4 @@ So, I went online and gathered the period and rate of return for CDs across many
 
 Summary:  There appears to be about a 10% premium per year of hold time.  In other words, if you were going to get a 10% return for 1 year, for 2 years it’s likely you’d get 11% (10% of 10% is 1%, added to the existing 10%).
 
-![CD rates of return](Images/liquidity-cd-rates.png)
+![CD rates of return](assets/liquidity-cd-rates.png)
