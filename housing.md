@@ -1,3 +1,8 @@
+--
+id: housing
+title: Housing
+sidebar_label: Housing
+---
 # Housing
 America has a really weird fixation on home ownership.  As we’ll see (later on in this document), single-family home ownership is not the clear path to wealth.  It actually underperforms the S&P 500 over the long haul.  But, none of that matters, we still want to own houses.  So, let’s talk through why, and what the financial considerations are.
 

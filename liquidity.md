@@ -1,3 +1,8 @@
+---
+id: liquidity
+title: Liquidity
+sidebar_label: Liquidity
+---
 # Risk vs Reward vs Liquidity
 Ok, so I over-simplified the risk vs reward tradeoff.  There is actually a third leg to the stool, and that’s liquidity.  How fast can you turn your asset into cash?   Although it’s not how a vast majority of these transactions actually go, I like to envision how quickly I could hold the amount in actual bills.  So, let’s look at that spectrum:
 

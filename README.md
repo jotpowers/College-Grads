@@ -7,7 +7,7 @@ sidebar_label: Overview
 
 The information in here started when I had several RCGs that were starting to work for me.  Now, some of it was very specific to the company I was working for, but over time, it because a document that people were referring to for a lot of different things, primarily due to the finance information/opinions in it.
 
-Then it grew to the point where I decided it probably needed to be crowdsourced, but the discussion was how.  And now we have it on Github.  Yes, I'll take pull requests.  
+Then it grew to the point where I decided it probably needed to be crowdsourced, but the discussion was how.  And now we have it on [Github](https://github.com/jotpowers/College-Grads).  Yes, I'll take pull requests.  
 
 ## tl;dr
 I've created that over in the [simple version](simple.md) if you just want to get started.  This will give you 90% of the value at about 10% of the effort.

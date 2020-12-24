@@ -1,6 +1,7 @@
 ---
 id: healthcare
 title: Healthcare
+sidebar_label: Healthcare
 ---
 # Healthcare (or Health Care or "Wow, I hate this")
 

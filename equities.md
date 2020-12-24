@@ -1,6 +1,7 @@
 ---
 id: equities
 title: Equities
+sidebar_label: Equities
 ---
 
 # Investing in Equities

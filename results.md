@@ -1,3 +1,8 @@
+---
+id: wid
+title: What I Do
+sidebar_label: What I Do
+---
 # What I Do
 
 I know a lot of these discussions seem a little abstract, and it’s really easy to read what people say you should do, but what do they do, and does it work?  So, to that end, here is what I do.

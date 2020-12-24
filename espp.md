@@ -1,3 +1,8 @@
+---
+id: espp
+title: ESPP
+sidebar_label: ESPP
+---
 # Employee Stock Purchase Plan (ESPP)
 
 If the program is setup well, you should absolutely do this.  If it's not, well then, probably not.  The difference is, do you get an automatic discount?  If you do get an automatic discount, then this is (almost) 100% risk free return on a pretty short term.  This is the only exception I know of to the risk:reward ratio.  

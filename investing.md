@@ -1,6 +1,7 @@
 ---
 id: investing
 title: Investing
+sidebar_label: Investing
 ---
 
 # Laws of Physics

@@ -1,3 +1,9 @@
+---
+id: value
+title: Calculating Value
+sidebar_label: Calculating Value
+---
+
 # How to Determine Value
 It turns out there are a lot of different ways to evaluate how well an investment does.  To be completely honest, I find many of them to be fairly confusing, so I’m going to try to clarify all of these for myself (and hopefully others).  In order to do that, I’ll try to use the same amount all of the time to see how they are different.  If you're one of those people who feels more comfortable playing with the numbers in Excel, [I have created a workbook](References/intro-to-investing.xlsx) that has all of these calculations as well, so that you can go be a dirty number fiddler.
 

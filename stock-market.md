@@ -1,6 +1,7 @@
 ---
-id: stock-market 
+id: stock-market
 title: Stock Market
+sidebar_label: Stock Market
 ---
 # Stock Market (a.k.a. Equities)
 

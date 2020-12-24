@@ -1,6 +1,7 @@
 ---
 id: retirement 
 title: Retirement
+sidebar_label: Retirement
 ---
 # Retirement
 
