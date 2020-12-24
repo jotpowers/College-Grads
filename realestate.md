@@ -16,15 +16,15 @@ So, I got interested in real estate investing.  I’ll tell you right now, it’
 
 It turns out, finding data on these things for long periods of time, is kind of hard.  For the stock market, if you only use a market index, you lose the value of dividends, which really depresses its value.  For real estate, there are so many different varieties that haven’t all been around for long periods of time, so it’s nearly impossible to have a truly long-term view.  But, I made a credible attempt at it, and here is what I have:
 
-## Data
+### Data
 * Stock market:  Good news here is that the economist Robert Shiller has done the heavy lifting here, so this data is available for a very long period of time. (Shiller, 2018)
 ** Problem with this data:  US equities only.  
 * Real estate:  This is a hard problem, and in the end my best long-term data was for Single Family Homes (SFH), from Robert Shiller in his book, Irrational Exuberance. (Shiller, 2018)
 ** Problem with this data:  Well, it makes SFH a proxy for all types of real estate. It is likely not 100% true when compared with Commercial and Multi-Family Home (MFH) and Retail and … but it’s the best I could find.
 
-## Result
+### Result
 
-![Real Estate vs Single Family Homes](Images/re-vs-sfh.png)
+![Real Estate vs Single Family Homes](assets/re-vs-sfh.png)
 
 There is a lot going on in this chart, so I’ll try to summarize:
 * Solid red line: Real estate value
