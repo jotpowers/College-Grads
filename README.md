@@ -1,5 +1,5 @@
 ---
-id: overview
+id: cg-overview
 title: Overview
 sidebar_label: Overview
 ---
