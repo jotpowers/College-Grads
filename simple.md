@@ -49,7 +49,7 @@ Invest it in the option that is available to you that is closest to VTSAX, which
   * [Real Estate](realestate.md) - One of the investing options, in depth
   * [Liquidity](liquidity.md) - Discussion on the premium you should get for not having easy access to your money.
   * [Personal Results](results.md) - Personal example (so N=1) of actual results using these strategies
-* [Taxes](Taxes/taxes.md) - High level overview of taxes.  Not sure where this is going to end up longer term.
+* [Taxes](taxes.md) - High level overview of taxes.  Not sure where this is going to end up longer term.
 
 ## Life Insurance
 
