@@ -5,6 +5,8 @@ sidebar_label: Real Estate
 ---
 # Real Estate
 
+![Satellite 4 Sale](for-sale.jpg)
+
 ## Correlation with [equities](equities.md). 
 
 Some of the strongest held beliefs is that real estate
