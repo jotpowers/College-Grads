@@ -4,6 +4,8 @@ title: Taxes
 sidebar_label: Taxes
 ---
 
+![Copyright David Corby, 2006, from Wikimedia](assets/alcatraz.jpg)
+
 ## Overview
 
 One thing that people misunderstand a lot of time is that the U.S. has a [marginal tax rate system](https://investinganswers.com/financial-dictionary/tax-center/marginal-tax-rate-2136).  This means as you move up tax brackets, only the money in the higher bracket is taxed at that rate.
