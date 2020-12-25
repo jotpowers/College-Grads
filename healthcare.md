@@ -3,7 +3,8 @@ id: healthcare
 title: Healthcare
 sidebar_label: Healthcare
 ---
-# Healthcare (or Health Care or "Wow, I hate this")
+
+![Healthcare banner created by starline - www.freepik.com](assets/healthcare.jpg)
 
 One of the first questions "What is up with all these confusing options?"
 
