@@ -25,3 +25,9 @@ I've struggled over time with how to organize this.  As an example, investing is
 * [Spending](spending.md) - Things you have to spend money on
 * [Saving](saving.md) - Order of how to save money
 * [Investing](investing.md) - Details of where your money could be in either Spending or Saving.
+
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![License image](assets/88x31.png)
