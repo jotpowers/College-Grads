@@ -41,7 +41,7 @@ So, what does it tell us:
 
 So, clearly the conclusion is that you should not invest in real estate, right?
 
-Not so fast.  This is one of those cases where it’s not a simple decision, so you’re going to have to put your [thinking tuque](https://genius.com/Bob-and-doug-mckenzie-twelve-days-of-christmas-lyrics) on.
+Not so fast.  This is one of those cases where it’s not a simple decision, so you’re going to have to put your [thinking toque](https://genius.com/Bob-and-doug-mckenzie-twelve-days-of-christmas-lyrics) on.
 
 ## Positives
 * Diversification:  It is a very good idea to be diversified.  This has the effect of limiting your risk by spreading it across many asset classes.  I’ll discuss diversification in more detail.
