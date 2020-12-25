@@ -50,8 +50,8 @@ A smart passive investor is one who does the following things:
 
 Why does this work?  Because most people won't do those things and instead will chase 10% returns over 8%.
 
-# TODO
-## Add more
+## TODO
+### Add more
 Chances of losing money in the stock market over 30 years
 
 https://github.com/zonination/investing
