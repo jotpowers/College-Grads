@@ -1,3 +1,8 @@
+---
+id: tax-equalization
+title: Tax Equalization
+sidebar_label: Tax Equalization
+---
 # Tax Equalization
 
 # Introduction

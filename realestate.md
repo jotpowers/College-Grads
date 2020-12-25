@@ -18,9 +18,9 @@ It turns out, finding data on these things for long periods of time, is kind of 
 
 ### Data
 * Stock market:  Good news here is that the economist Robert Shiller has done the heavy lifting here, so this data is available for a very long period of time. (Shiller, 2018)
-** Problem with this data:  US equities only.  
+  * Problem with this data:  US equities only.  
 * Real estate:  This is a hard problem, and in the end my best long-term data was for Single Family Homes (SFH), from Robert Shiller in his book, Irrational Exuberance. (Shiller, 2018)
-** Problem with this data:  Well, it makes SFH a proxy for all types of real estate. It is likely not 100% true when compared with Commercial and Multi-Family Home (MFH) and Retail and … but it’s the best I could find.
+  * Problem with this data:  Well, it makes SFH a proxy for all types of real estate. It is likely not 100% true when compared with Commercial and Multi-Family Home (MFH) and Retail and … but it’s the best I could find.
 
 ### Result
 
@@ -41,7 +41,7 @@ So, what does it tell us:
 
 So, clearly the conclusion is that you should not invest in real estate, right?
 
-Not so fast.  This is one of those cases where it’s not a simple decision, so you’re going to have to put your thinking tuque on.
+Not so fast.  This is one of those cases where it’s not a simple decision, so you’re going to have to put your [thinking toque](https://genius.com/Bob-and-doug-mckenzie-twelve-days-of-christmas-lyrics) on.
 
 ## Positives
 * Diversification:  It is a very good idea to be diversified.  This has the effect of limiting your risk by spreading it across many asset classes.  I’ll discuss diversification in more detail.
@@ -51,7 +51,7 @@ Not so fast.  This is one of those cases where it’s not a simple decision, so 
 * Complexity:  It’s a very complex asset class.  We’ve already talked about SFH, MFH, Commercial and Retail.  But even there, you get Mobile Home Parks (MHP), Self-storage, Apartments, Medical, … the list goes on and on.
 * Deal flow:  In recent years the availability of crowd funding has helped here dramatically.  Before that you had no way to get access to real estate in any truly sustainable and diverse way.
 * Capital:  The owners are paying you to use your capital, which means you need to provide it.  The minimum investments tend to be $10,000 and realistically tend to be $25,000 and up.
-* Liquidity:  Hold times are normally longer than 5 years, so you have to realize you’re giving up access to that money for the entire time.
+* [Liquidity](liquidity.md):  Hold times are normally longer than 5 years, so you have to realize you’re giving up access to that money for the entire time.
 Uncertainty:  It’s a new asset class to you, and due to the long hold times, you can’t go ‘full cycle’ before investing more money.
 
 ## Taxes
@@ -85,9 +85,9 @@ It is important to actually quantify this is real numbers and to take a shot at 
 * Real estate: 6.9%
 * Difference: .3% absolute or a 4.3% percentage change.
 
-So, if you have a tax rate above 4.3% (Hint: You probably do) choosing a rate of return of 6.9% on something with 0% taxes will net you more money.  At a 20% return, to match the 6.9% net you need your return to get you 8.6%.
+So, if you have a tax rate above 4.3% (Hint: You probably do) choosing a rate of return of 6.9% on something with 0% taxes will net you more money.  At a 20% tax rate, to match the 6.9% net you need your return to get you 8.6%.
 
-... and you're going to have to be willing to work harder to have this asset class work for you.
+... but you're going to have to be willing to work harder to have real estate work for you.
 
 
 ## TBD

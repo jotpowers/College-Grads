@@ -6,11 +6,19 @@ sidebar_label: Liquidity
 ## Risk vs Reward vs Liquidity
 Ok, so I over-simplified the risk vs reward tradeoff.  There is actually a third leg to the stool, and that’s liquidity.  How fast can you turn your asset into cash?   Although it’s not how a vast majority of these transactions actually go, I like to envision how quickly I could hold the amount in actual bills.  So, let’s look at that spectrum:
 
-* Checking account:  I could go to the bank or even write a check.  Time to cash:  5 minutes.  Amount of interest normally paid:  0
-* Savings account:  Normally you can’t write a check out of it, so marginally longer.  Amount of interest paid:  Marginally above 0.
+* Checking account:  I could go to the bank or even write a check.  
+  * Time to cash:  5 minutes.  
+  * Amount of interest normally paid:  0
+* Savings account
+  * Time to cash: A little longer than 5 minutes. Normally you can’t write a check out of it, so marginally longer than checking.
+  * Amount of interest paid:  Marginally above 0.
 * Certificate of deposit (CD):  Rates vary with the hold time, so we’ll come back to this.
-* Public equities (aka stock market):  Four days.  (Day to sell, 3 to get to bank in the US), then to cash.  Amount of return:  Historically about 7%
-* Real estate:  Weeks.  Even with instant sale, the paperwork, funding is a few weeks.  Amount of return:  Also, historically about 7% with less volatility.  
+* Public equities (aka stock market)  
+  * Time to cash: Four days.  (Day to sell, 3 to get to bank in the US), then to cash.  
+  * Amount of return:  Historically about 7%
+* Real estate 
+  * Time to cash:  Weeks.  Even with instant sale, the paperwork, funding is a few weeks.  
+  * Amount of return:  Also, historically about 7% with less volatility.  
 
 ## Liquidity Premium Calculated from CD Rates
 
