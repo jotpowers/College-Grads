@@ -31,7 +31,7 @@ But, I want to call out why this is speculation and not investing.  A few years 
 
 ### Older me
 
-However, Rally expanded into other memorabilia, so I will buy a single share of things that I have an emotional attachment to, or I think might make neat gifts for people.
+However, Rally expanded into other memorabilia, so I will buy a single share of things that I have an emotional attachment to, or I think might make neat gifts for people.  The shoes up top are an example.  Through some sort of failing as a parent I have a son who is a bit of a sneakerhead, so I thought those would be neat for him.
 
 As a result, I bought 3 shares of a complete 1st Edition Pokémon Card set.  One share for each of my children for $25 each.  I thought it would make fun certificates as birthday/Christmas presents.  
 
