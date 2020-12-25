@@ -7,7 +7,7 @@ sidebar_label: Speculation
 ## Overview
 Speculation is where you make money decisions, not based on rational decision making, but instead based on your beliefs or hopes.  And guess what?  That's O.K.
 
-![Why not some smelly shoes?](assets/rally-air-jordans.png]
+![Why not some smelly shoes? For my sneakerhead son.](assets/rally-air-jordans.png)
 
 But, recognize that it's not investing, but speculation or gambling.  Here are the things that fall into that category:
 
@@ -15,13 +15,13 @@ But, recognize that it's not investing, but speculation or gambling.  Here are t
 * Cryptocurrencies 
 * Other
 
-Now, sure, you can end up with some spectacular results, be recognize that it's luck, not skill.  Do this with the money ou can afford to lose.
+Now, sure, you can end up with some spectacular results, be recognize that it's luck, not skill.  Do this with the money you can afford to lose.
 
 ## My best *"investment"* of 2020
 
 Between June 26th and December 1st of 2020 I made 500% on a single *investment*.  And I don't really care.
 
-What was that investment?  Pokémon cards.  No, I'm not kidding.
+What was that "investment"?  Pokémon cards.  No, I'm not kidding.
 
 ### 15 year old me
 
