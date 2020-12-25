@@ -3,8 +3,6 @@ id: realestate
 title: Real Estate
 sidebar_label: Real Estate
 ---
-# Real Estate
-
 ![Satellite 4 Sale](assets/for-sale.jpg)
 
 ## Correlation with [equities](equities.md). 
