@@ -51,7 +51,7 @@ Not so fast.  This is one of those cases where it’s not a simple decision, so 
 * Complexity:  It’s a very complex asset class.  We’ve already talked about SFH, MFH, Commercial and Retail.  But even there, you get Mobile Home Parks (MHP), Self-storage, Apartments, Medical, … the list goes on and on.
 * Deal flow:  In recent years the availability of crowd funding has helped here dramatically.  Before that you had no way to get access to real estate in any truly sustainable and diverse way.
 * Capital:  The owners are paying you to use your capital, which means you need to provide it.  The minimum investments tend to be $10,000 and realistically tend to be $25,000 and up.
-* Liquidity:  Hold times are normally longer than 5 years, so you have to realize you’re giving up access to that money for the entire time.
+* [Liquidity](liquidity.md):  Hold times are normally longer than 5 years, so you have to realize you’re giving up access to that money for the entire time.
 Uncertainty:  It’s a new asset class to you, and due to the long hold times, you can’t go ‘full cycle’ before investing more money.
 
 ## Taxes
