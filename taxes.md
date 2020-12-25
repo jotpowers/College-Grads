@@ -27,7 +27,7 @@ Don't overthink it.  Your only real lever is #1, in which case, outright fraud i
 
 This may or may not be useful to you.  You probably already know all this, but just in case, Happy Tax day.
 
-**Note:**  For the record, I had to amend 4 years of taxes to fix the fact that I messed this up.  It's not theoretical (OK, it is), but it's 100% something you need to understand, because it's practical too.
+> **Note:**  For the record, I had to amend 4 years of taxes to fix the fact that I messed this up.  It's not theoretical (OK, it is), but it's 100% something you need to understand, because it's practical too.
 
 When you sell stock (including ESPP) or RSUs you will get a form (I think it’s a 1099-R) that will give your sale price and your gain.  
 
