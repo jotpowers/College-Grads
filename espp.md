@@ -50,3 +50,7 @@ There are more than a few words in there that are hedging words.  "Virtually ris
 
 * There is a window between when the stock is purchased, and when you have access to it.  Let's say the purchase date is May 1st, by the time the stock gets into the account of your broker, is a couple of days, let's say that turns into May 4th.  If the stock drops by more than 15% in those 3 days you could lose money.
 * Your company could go bankrupt.  They've been holding your money for 6 months, and suddenly they go bankrupt.  You're likely not going to get the withholdings that otherwise you would have had in your pocket.
+
+## Embarassing Admission
+
+I no longer follow my own advice.  That's right, I hold on to ESPP stock.  Why?  Because I got to the point in my investment career where company stock went from being an investment to being speculation.  It is a small enough portion of my overall portfolio that I can take a risk on it out performing the market or going to zero, so I'm willing to risk holding onto it.
