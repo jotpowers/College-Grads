@@ -18,9 +18,9 @@ It turns out, finding data on these things for long periods of time, is kind of 
 
 ### Data
 * Stock market:  Good news here is that the economist Robert Shiller has done the heavy lifting here, so this data is available for a very long period of time. (Shiller, 2018)
-** Problem with this data:  US equities only.  
+  * Problem with this data:  US equities only.  
 * Real estate:  This is a hard problem, and in the end my best long-term data was for Single Family Homes (SFH), from Robert Shiller in his book, Irrational Exuberance. (Shiller, 2018)
-** Problem with this data:  Well, it makes SFH a proxy for all types of real estate. It is likely not 100% true when compared with Commercial and Multi-Family Home (MFH) and Retail and … but it’s the best I could find.
+  * Problem with this data:  Well, it makes SFH a proxy for all types of real estate. It is likely not 100% true when compared with Commercial and Multi-Family Home (MFH) and Retail and … but it’s the best I could find.
 
 ### Result
 
