@@ -3,11 +3,11 @@ id: realestate
 title: Real Estate
 sidebar_label: Real Estate
 ---
-# Real Estate
+![Satellite 4 Sale](assets/for-sale.jpg)
 
 ## Correlation with [equities](equities.md). 
 
-Some of the strongest held beliefs is that real estate
+Some of the strongest held beliefs is that real estate:
 * Has a higher rate of return than equities
 * Is more recession resistant 
 * Does not correlate with the stock market

@@ -3,7 +3,7 @@ id: stock-market
 title: Stock Market
 sidebar_label: Stock Market
 ---
-# Stock Market (a.k.a. Equities)
+![Abstract photo created by jcomp - www.freepik.com](assets/stock-market.jpg)
 
 If you’re investing, chances are, you’re invested in the “stock market”.  This is probably the most common way, world-wide to invest.  But, what exactly does that mean?
 
@@ -50,8 +50,8 @@ A smart passive investor is one who does the following things:
 
 Why does this work?  Because most people won't do those things and instead will chase 10% returns over 8%.
 
-# TODO
-## Add more
+## TODO
+### Add more
 Chances of losing money in the stock market over 30 years
 
 https://github.com/zonination/investing
