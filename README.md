@@ -3,6 +3,8 @@ id: cg-overview
 title: Overview
 sidebar_label: Overview
 ---
+![Planning for your sunset](assets/beach_pano.jpg)
+
 # Information for Recent College Graduates (which has morphed into "Introduction to Investing")
 
 > *Note*:  If you're reading this via straight Github, it is also now available in an easier to read format at [jotpowers.github.io](https://jotpowers.github.io/ds/docs/introduction).  This is as a result of Vidit opening [this issue](https://github.com/jotpowers/College-Grads/issues/1). If you're reading this via Github Pages, then the bare repo is available [here](https://github.com/jotpowers/College-Grads).
