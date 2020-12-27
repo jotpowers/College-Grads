@@ -50,7 +50,9 @@ Medical generally falls into a few categories.
 
 ### Consumer Directed Health Plan (CDHP)
 
-Things I can not make up.  A [CDHP is a HDHP with an HSA](https://www.hca.wa.gov/employee-retiree-benefits/public-employees/health-plans-health-savings-accounts-hsas).  I hope that really clears it up for you.   HDHP == High Deductible Health Plan.  HSA == Health Savings Account.
+Things I can not make up.  A [CDHP is a HDHP with an HSA](https://www.hca.wa.gov/employee-retiree-benefits/public-employees/health-plans-health-savings-accounts-hsas).  I hope that really clears it up for you.   
+  * HDHP == High Deductible Health Plan.  
+  * HSA == Health Savings Account.
 
 But, let's step back and revisit governmental dysfunction.  Healthcare costs continue to rise, because we haven't figured out how to just copy the systems that are proven to work.  Now, that would be a good solution, so we won't do it, and instead what we'll do is create a different byzantine system to try to get people to spend less.  Because, well... there is no good reason.  That is what a CDHP is.
 
@@ -62,7 +64,7 @@ So, if you are young and healthy, this is can be a great plan.  It allows you an
 * Bad news:  You might feel inclined to avoid preventative medical costs, which is more costly in the long run. As a matter of fact, [this is exactly what happens](https://www.npr.org/sections/health-shots/2019/04/18/713887452/high-deductible-health-policies-linked-to-delayed-diagnosis-and-treatment). This will have the highest on-going costs and the highest maximum out-of-pocket.  Generally it is still part of insurance, so you still get negotiated rates.
 
 ### Finding a Doctor
-The same way you do anything else nowadays.  Research on the internet and ask co-workers if they have someone they particularly like.
+The same way you do anything else nowadays.  Research on the internet and ask co-workers if they have someone they particularly like.  At the end of all of this, choose the one with the best [TikTok videos](https://www.tiktok.com).  I kid.  Don't do that.
 
 ### Anecdote
 I started out with a PPO when it was just my wife and myself.  The flexibility was awesome.  However, when the Powers family started to grow we looked at the expense of having our first child and an HMO saved us ~$3k in a single year, so we switched but over time our employer options have forces more towards PPO/CDHP.
