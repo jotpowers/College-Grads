@@ -1,7 +1,7 @@
 ---
-id: post-tax 
-title: Post-Tax
-sidebar_label: Post-Tax
+id: after-tax 
+title: After-Tax
+sidebar_label: After-Tax
 ---
 
 *Note*:  This is an early work in progress.
