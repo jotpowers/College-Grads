@@ -70,7 +70,7 @@ The same way you do anything else nowadays.  Research on the internet and ask co
 I started out with a PPO when it was just my wife and myself.  The flexibility was awesome.  However, when the Powers family started to grow we looked at the expense of having our first child and an HMO saved us ~$3k in a single year, so we switched but over time our employer options have forces more towards PPO/CDHP.
 
 ## Dental
-Almost everyone has teeth.  Almost all dental plans will not cover you fully for any major problems and your options are limited.  Choose one, *BUT* make sure you start getting dental cleanings every six months.  Dental health is a keystone health issue.  It is predictive and causal for increased problems things like heart disease, stroke and chewing solid food.
+Almost everyone has teeth.  Almost all dental plans will not cover you fully for any major problems and your options are limited.  Choose one, *BUT* make sure you start getting dental cleanings every six months.  Dental health is a keystone health issue.  It is predictive and causal for increased problems things like heart disease, stroke and chewing solid food.  (Also, you should learn the difference between *causal* and *casual*, because I enjoy playing with language to your potential detriment.)
 
 Sometimes there are different plans with slightly different options.  Normally it's about whether or not the plan covers braces (a.k.a. orthodonics).  If you're not getting them, or you don't have kids getting them in the next year, probably go with the less expensive one.
 
