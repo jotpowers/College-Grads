@@ -19,7 +19,7 @@ I've created that over in the [simple version](simple.md) if you just want to ge
 ## Overview
 I graduated so long ago that the basics of how to incorporate into corporate America are so second nature that I forget about all the questions I had at the time.  So, here are the thoughts that I find myself distilling down for my RCGs when they join the team.
 
-**Note:** These are my opinions.  Other people might have different ones.  Maybe people like you, so make sure you do your own research and, when in doubt, ask someone who does this stuff for a living.
+> *Note:* These are my opinions.  Other people might have different ones.  Maybe people like you, so make sure you do your own research and, when in doubt, ask someone who does this stuff for a living.
 
 I've struggled over time with how to organize this.  As an example, investing is something you do in retirement accounts and in other ways, so where does it belong? My current plan is to break it up into:
 
