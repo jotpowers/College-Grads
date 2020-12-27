@@ -41,7 +41,7 @@ Medical generally falls into a few categories.
 * tl;dr:  In general, I think PPO is probably the best option in terms of cost and flexibility, so if you can't make up your mind, choose that.
 
 ### Preferred Provider Organization (PPO)
-* Good news: A PPO allows you to go to any doctor without a referral.  This is awesome because it doesn't mean that you're bottlenecked on first seeing your Primary Care Physician (PCP), getting a referral, then going. Ironically, a PCP can't prescribe [PCP](https://en.wikipedia.org/wiki/Phencyclidine).  Irony, For The Win.
+* Good news: A PPO allows you to go to any doctor without a referral.  This is awesome because it doesn't mean that you're bottlenecked on first seeing your Primary Care Physician (PCP), getting a referral, then going. Ironically, a PCP can't prescribe [PCP](https://en.wikipedia.org/wiki/Phencyclidine).  Irony, FTW.
 * Bad news: It is more expensive.  Co-pays (the amount you pay at each visit) are higher and your maximum out-of-pocket for a year also tend to be higher.
 
 ### Health Maintenance Organization (HMO)
