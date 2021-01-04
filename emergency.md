@@ -1,5 +1,5 @@
 ---
-id: emeregency
+id: emergency
 title: Emergency Fund
 sidebar_label: Emergency Fund
 ---
