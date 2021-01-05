@@ -1,7 +1,7 @@
 ---
-id: Other
-title: Other
-sidebar_label: Other
+id: other
+title: Overview
+sidebar_label: Overview
 ---
 
 *Note*:  This is an early work in progress.
