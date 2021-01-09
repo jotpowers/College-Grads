@@ -3,6 +3,8 @@ id: solo
 title: Solo 401k
 sidebar_label: Solo 401k
 ---
+![401k image](assets/solo-401k.jpg)
+
 ## Why would you want to have a Solo 401k?
 
 There are a few reasons:
