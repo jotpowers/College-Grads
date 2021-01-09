@@ -12,7 +12,7 @@ So, let's talk through this, because it represents a change [from my past](https
 
 ## Truth in Advertising
 
-Honestly, I have been in a place where I wonder if my assets after W-2 (i.e. employed by someone else) would not exceed my W-2 life.  The answer is:  Yeah, that seems unlikely.
+There have been times where I've wondered if my assets/income after I retire wouldn't be larger than when I was working.  I've been incredibly lucky with my job, and investing, and I just don't see it happening.  I suspect that's true for 95+% of people, so plan for the expected, not the unlikely.
 
 Even if you are *extremely* lucky and you can plan on a retirement income greater than your W-2 income, the chances are that your tax rates will be less.  In particular, because long term capital games are not ordinary income.  So, if you can reduce your current income by your current income tax percentage, that is likely to result in a net gain versus your future income tax percentage (which be much lower on a higher standard of living).
 
