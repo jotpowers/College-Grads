@@ -82,6 +82,12 @@ You can actually do this step in parallel with other steps because it doesn't ha
 
 You want to ensure that you have your cost-basis separated from gains.  You should have your [Form 8606](https://www.irs.gov/forms-pubs/about-form-8606) to document this.  Put all of the basis into something stable like a bond fund, and then move all of the gains to a different fund.  
 
+#### Why is this important?
+
+Let's say you have put $10k post-tax into a traditional IRA and it has doubled, so it is now worth $20k.  If you simply roll this over into your 401k, when you go to withdraw you will pay taxes on the entire $20k at whatever your rate is.  This means you will be taxed twice on $10k and furthermore, lose out on tax free gains of the $10k when you Backdoor Roth it.  If you segment this, you'll end up with $10k that you rollover into a Roth IRA that will grow tax free, and $10k in a 401k that will be able to grow tax deferred.
+
+I screwed this up on my first one, and figured it out and did it right on the second one, but there is no way to undo this.
+
 Now, once you have the 401k setup, you'll be all ready.
 
 ### Transfer IRAs to 401k
@@ -90,7 +96,7 @@ Finally, you have to transfer the gains from your IRAs into the 401k.  I've actu
 
 For Schwab I was able to initiate the transfer from Schwab and have it just happen.  I filled out the forms and it was all good.
 
-For Etrade, they wouldn't allow me to rollover from an IRA to the 401k.  I had to do a qualified distribution from the source (in my case it was [T. Rowe Price](https://www.troweprice.com/personal-investing/home.html) to Etrade.  This was sort of a pain because I had to fill out the forms, and then get a [Medallion Signature Guarantee](https://en.wikipedia.org/wiki/Medallion_signature_guarantee), which is more complicated.
+For Etrade, they wouldn't allow me to rollover from an IRA to the 401k.  I had to do a qualified distribution from the source (in my case it was [T. Rowe Price](https://www.troweprice.com/personal-investing/home.html)) to Etrade.  This was sort of a pain because I had to fill out the forms, and then get a [Medallion Signature Guarantee](https://en.wikipedia.org/wiki/Medallion_signature_guarantee), which is more complicated.
 
 > *Note*: If you haven't done the MSG before, you have to take the form and the account statements for the source and the destination.  Make sure you bring **all** of the pages of the account statements.  I hadn't printed out the 5 of 6 and 6 of 6 pages that were the privacy policy and "This page intentionally left blank" and they needed them.
 
