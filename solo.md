@@ -16,7 +16,7 @@ There are a few reasons:
 
 My reason is focused entire on the last one of these.  My wife has some traditional and rollover IRAs that make it so that we can't effectively do a backdoor roth without running foul of the pro-rata rule. 
 
-> *Note:  This is not a fast process.  Give yourself a solid 6-8 weeks to do this job so you're not rushed.
+> *Note*:  This is not a fast process.  Give yourself a solid 6-8 weeks to do this job so you're not rushed.
 
 ## How do I set one up?
 
@@ -104,7 +104,7 @@ For Etrade, they wouldn't allow me to rollover from an IRA to the 401k.  I had t
 
 ## Now you can Backdoor Roth
 
-This process is well covered across the interwebs, so I'm not going to go into those details, but hopefully you're now all setup.
+This process is well covered across the interwebs, so I'm not going to go into those details, but hopefully you're now all setup.  I link to several of them in the [After-tax](after-tax.md) section.
 
 ## External Links
 
