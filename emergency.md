@@ -4,7 +4,7 @@ title: Emergency Fund
 sidebar_label: Emergency Fund
 ---
 
-*Note*:  This is an early work in progress.
+> *Note*:  This is an early work in progress.
 
 ## Overview
 
