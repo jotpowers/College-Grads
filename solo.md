@@ -86,9 +86,20 @@ You want to ensure that you have your cost-basis separated from gains.  You shou
 
 #### Why is this important?
 
-Let's say you have put $10k post-tax into a traditional IRA and it has doubled, so it is now worth $20k.  If you simply roll this over into your 401k, when you go to withdraw you will pay taxes on the entire $20k at whatever your rate is.  This means you will be taxed twice on $10k and furthermore, lose out on tax free gains of the $10k when you Backdoor Roth it.  If you segment this, you'll end up with $10k that you rollover into a Roth IRA that will grow tax free, and $10k in a 401k that will be able to grow tax deferred.
+Let's imagine that you have a traditional IRA that you have contributed to.
 
-I screwed this up on my first one, and figured it out and did it right on the second one, but there is no way to undo this.
+* One year you contributed $2k pre-tax.
+* One year you contributed $2k post-tax.
+
+Thus, the total value is $4k.  You let that sit for a while and decide you want to roll this into your 401k so that you can start doing a backdoor Roth.  You plan on retiring in 20 years, compounding annually (it changes some but not much if you go with daily). 
+
+At the end of 20 years it will now be worth ~$13000 that you will pay taxes on.
+
+But, if instead you only roll over the pre-tax money into a 401k, and then you backdoor the othe $2k what does that look like?
+
+At the end of the 20 years you have the same amount of money, but now $6500 of it is tax free, and the other $6500 is not.  So, if you assume a 15% tax rate, that's nearly $1k or 7.5% less overall.  Now imagine you're talking $20k instead of $2k and it magnifies.  Or 30 years instead of 20.
+
+I screwed this up on my first one, and figured it out and did it right on the second one, but there is no way to undo this, so pay attention.
 
 Now, once you have the 401k setup, you'll be all ready.
 
