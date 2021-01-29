@@ -93,11 +93,11 @@ Let's imagine that you have a traditional IRA that you have contributed to.
 
 Thus, the total value is $4k.  You let that sit for a while and decide you want to roll this into your 401k so that you can start doing a backdoor Roth.  You plan on retiring in 20 years, compounding annually (it changes some but not much if you go with daily). 
 
-At the end of 20 years it will now be worth ~$13000 that you will pay taxes on.
+At the end of 20 years it will now be worth ~$13000 that you will pay taxes on.  Also, you've *already* paid taxes on the post-tax portion once, so now you're signing up to get taxed on it twice and more importantly you're missing out on the tax-free compounding.
 
 But, if instead you only roll over the pre-tax money into a 401k, and then you backdoor the othe $2k what does that look like?
 
-At the end of the 20 years you have the same amount of money, but now $6500 of it is tax free, and the other $6500 is not.  So, if you assume a 15% tax rate, that's nearly $1k or 7.5% less overall.  Now imagine you're talking $20k instead of $2k and it magnifies.  Or 30 years instead of 20.
+At the end of the 20 years you have the same amount of money, but now $6500 of it is tax free, and the other $6500 is not.  So, if you assume a 15% tax rate, that's nearly $1k or 7.5% less overall.  Now imagine you're talking $20k instead of $2k and it magnifies.  Or 30 years instead of 20.  The numbers just get more compelling.
 
 I screwed this up on my first one, and figured it out and did it right on the second one, but there is no way to undo this, so pay attention.
 
