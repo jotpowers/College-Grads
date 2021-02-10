@@ -50,5 +50,4 @@ Most of us are on the AIP so that has the most relevance, but if you get bonuses
 |Roth 401k|Employee Bonus Roth 401(K)|
 |After-tax|After-Tax Bonus Account|
 |Traditional 401k (catchup for people over 50)|EE Bonus Catch Up Pre Tax Acct
-|
 |Roth 401k catchup (for people over 50)|EE Bonus Catch Up Roth 401k|
