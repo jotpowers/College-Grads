@@ -7,7 +7,7 @@ sidebar_label: Real Estate
 
 ## Correlation with [equities](equities.md). 
 
-Some of the strongest held beliefs is that real estate:
+Some of the strongest held beliefs are that real estate:
 * Has a higher rate of return than equities
 * Is more recession resistant 
 * Does not correlate with the stock market
