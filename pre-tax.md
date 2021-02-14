@@ -4,11 +4,13 @@ title: Pre-Tax
 sidebar_label: Pre-Tax
 ---
 
-> *Note*:  This is an early work in progress.
+:::note
+This is an early work in progress.
+:::
 
 After an [emergency fund](emergency.md), this is the first savings bucket you want to fill.  This is because it generally allows you to avoid paying taxes and your current rate.  When you retire there is a 90+% chance you're going to be paying less in taxes, so you make money overall on this.
 
-So, let's talk through this, because it represents a change [from my past](https://github.com/jotpowers/College-Grads/commit/d8f27a856f201d6dcdc6b5c28e34de5662650cf7#diff-a50bcc4820918ed9d6d0daa6fe8c473e8bbd7b8435c9bc066864885bebcd7d09). This is one of the advantages of GitHub, you can watch the evolution of thought and decided whther or not I'm an idiot.
+So, let's talk through this, because it represents a change [from my past](https://github.com/jotpowers/College-Grads/commit/d8f27a856f201d6dcdc6b5c28e34de5662650cf7#diff-a50bcc4820918ed9d6d0daa6fe8c473e8bbd7b8435c9bc066864885bebcd7d09). This is one of the advantages of GitHub, you can watch the evolution of thought and decided whether or not I'm an idiot.
 
 ## Truth in Advertising
 
