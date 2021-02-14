@@ -16,7 +16,9 @@ There are a few reasons:
 
 My reason is focused entire on the last one of these.  My wife has some traditional and rollover IRAs that make it so that we can't effectively do a backdoor roth without running foul of the pro-rata rule. 
 
-> *Note*:  This is not a fast process.  Give yourself a solid 6-8 weeks to do this job so you're not rushed.
+:::important
+This is not a fast process.  Give yourself a solid 6-8 weeks to do this job so you're not rushed.
+:::
 
 ## How do I set one up?
 
@@ -30,9 +32,13 @@ You can sign up for an [EIN online](https://www.irs.gov/businesses/small-busines
 
 When you do this, you sign up for one as a sole proprietor and then move on.
 
-> *Note*:  I would recommend that you make the name of the business different than your own  name, just to not confuse yourself.  If your name is John Doe and the business is John Doe, it could get confusing which one you're handling.  I didn't do this, so it's a free learning for you.  Don't over-complicate it though, be simple like "Doe Family" or something else.
+:::tip
+I would recommend that you make the name of the business different than your own  name, just to not confuse yourself.  If your name is John Doe and the business is John Doe, it could get confusing which one you're handling.  I didn't do this, so it's a free learning for you.  Don't over-complicate it though, be simple like "Doe Family" or something else.
+:::
 
-> *Second Note*:  If you're doing this just for Backdoor Roth, then you want to reduce your overall hassle.  You do need income to open a 401k, but as long as you can **legitmately** get paid for work, it counts.  It doesn't have to be 1099/W2 income, although you may have to report it on your taxes.  *But*, if your business makes less than $600 per year you don't have to file business taxes, which will make your life easier. See the "Not Required to File" portion of the [IRS documentation](https://www.irs.gov/businesses/small-businesses-self-employed/am-i-required-to-file-a-form-1099-or-other-information-return)
+:::tip 
+If you're doing this just for Backdoor Roth, then you want to reduce your overall hassle.  You do need income to open a 401k, but as long as you can **legitmately** get paid for work, it counts.  It doesn't have to be 1099/W2 income, although you may have to report it on your taxes.  *But*, if your business makes less than $600 per year you don't have to file business taxes, which will make your life easier. See the "Not Required to File" portion of the [IRS documentation](https://www.irs.gov/businesses/small-businesses-self-employed/am-i-required-to-file-a-form-1099-or-other-information-return)
+:::
 
 ### Figure out which company to have your 401k at
 
@@ -46,7 +52,6 @@ I did some research on this, and it may be that these change over time, so you m
   * Why should I pay more?
 
 Here are my notes:
-
 
 * [Vanguard](https://investor.vanguard.com/small-business-retirement-plans/individual-solo-401k) 
   * No rollover
@@ -80,7 +85,9 @@ Then you need to get them to Etrade.  I was trying to do that in the November ti
 
 You can actually do this step in parallel with other steps because it doesn't have any dependencies.  You are doing this so that you can do the Backdoor Roth on your prior contributions.
 
-> *Note*: This step only applies if you have made **after-tax** contributions to a traditional IRA.  If you only have Rollover IRAs or IRAs that were pre-tax you can skip this.
+:::important
+This step only applies if you have made **after-tax** contributions to a traditional IRA.  If you only have Rollover IRAs or IRAs that were pre-tax you can skip this.
+:::
 
 You want to ensure that you have your cost-basis separated from gains.  You should have your [Form 8606](https://www.irs.gov/forms-pubs/about-form-8606) to document this.  Put all of the basis into something stable like a bond fund, and then move all of the gains to a different fund.  
 
@@ -111,7 +118,11 @@ For Schwab I was able to initiate the transfer from Schwab and have it just happ
 
 For Etrade, they wouldn't allow me to rollover from an IRA to the 401k.  I had to do a qualified distribution from the source (in my case it was [T. Rowe Price](https://www.troweprice.com/personal-investing/home.html)) to Etrade.  This was sort of a pain because I had to fill out the forms, and then get a [Medallion Signature Guarantee](https://en.wikipedia.org/wiki/Medallion_signature_guarantee), which is more complicated.
 
-> *Note*: If you haven't done the MSG before, you have to take the form and the account statements for the source and the destination.  Make sure you bring **all** of the pages of the account statements.  I hadn't printed out the 5 of 6 and 6 of 6 pages that were the privacy policy and "This page intentionally left blank" and they needed them.
+Honestly, Etrade is kind of a pain for this.  They want you to initiate all rollovers from the other company.  So, my *"Ah-ha"* moment was recognizing I should just rollover IRA to IRA at an account at Etrade.  Then the process of rolling it over from IRA to 401k is all at Etrade and I can have the conversation with them that goes "Well, why don't you just talk to yourself to get it done?"
+
+:::important
+If you haven't done the MSG before, you have to take the form and the account statements for the source and the destination.  Make sure you bring **all** of the pages of the account statements.  I hadn't printed out the 5 of 6 and 6 of 6 pages that were the privacy policy and "This page intentionally left blank" and they needed them.
+:::
 
 ## Now you can Backdoor Roth
 
