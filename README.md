@@ -30,7 +30,7 @@ I've struggled over time with how to organize this.  As an example, investing is
 * Brief introduction (this)
 * [Spending](spending.md) - Things you have to spend money on
 * [Saving](saving.md) - Order of how to save money
-* [Investing](investing.md) - Details of where your money could be in either Spending or Saving.
+* [Investing](investing.md) - Details of where your money could be put.  This could be in either the "Spending" or "Saving" buckets.
 
 ## License
 

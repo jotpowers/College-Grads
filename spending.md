@@ -13,7 +13,7 @@ Since the goal of this documentation is to show you how to grow your money over 
 * Savings
 * Nice to have (e.g. vacations, hobbies)
 
-I could detail all of that out, but I don't need to reinvent the wheel.  I think it's done really well in the ...
+I could detail all of that out, but why bother when someone else did it better?
 
 ## Flowchart 
 (a.k.a. [The Prime Directive](https://www.reddit.com/r/personalfinance/wiki/commontopics?utm_content=t5_2qstm) )

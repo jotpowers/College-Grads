@@ -13,7 +13,9 @@ This might be very plan and company specific, but my company uses Charles Schwab
 
 Now, I suspect this is a combination of what my company has given them and how they've implemented it, so I have no idea if this is a problem across their whole ecosystem, but I'm tired of explaining it, so I'm just going to document it for everyone.
 
-> **Note**:  Even though this might be company specific, I'm putting it out here so that people can have access to the information when they aren't on the company intranet.
+:::note
+Even though this might be company specific, I'm putting it out here so that people can have access to the information when they aren't on the company intranet.
+:::
 
 ## Base Pay
 | Real Meaning | Schwab Description|

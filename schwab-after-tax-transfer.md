@@ -3,7 +3,9 @@ id: schwab-after-tax
 title: Schwab After-tax Step-by-Step Guide
 sidebar_label: Schwab After-tax Transfer
 ---
-> **Note:** This was highly specific to my employer, but enough people wanted to access it when not on VPN/intranet, that I've moved it out here.  I will refer to my company as Acme Inc (purveyor of the internet's finest anvils!)
+:::note
+This was highly specific to my employer, but enough people wanted to access it when not on VPN/intranet, that I've moved it out here.  I will refer to my company as Acme Inc (purveyor of the internet's finest anvils!)
+:::
 
 ## Background
 Starting in 2019 Acme got with the program and started allowing three things that weren't allowed before.  
