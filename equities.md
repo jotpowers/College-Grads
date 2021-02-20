@@ -6,9 +6,9 @@ sidebar_label: Equities
 
 ![Vector created by dooder - www.freepik.com](assets/equities.jpg)
 
-# Investing in Equities
+## Investing in Equities
 
-Long-term, my opinion is that equities is the way for a vast majority of people (>90%) to invest.  Probably the only exceptions to this are if your real job is related to an asset class so that you can be a professional at it.  You're probably better off following the advice in this page than worrying about complex asset classes like [real estate](realestate.md). Probably the most important piece of this is to harness the [power of compounding](https://www.businessinsider.com/amazing-power-of-compound-interest-2014-7)!  You're young. (Ok, maybe you're not when you're reading this, but I can guarantee one thing, you are not getting younger, so start now!)  Take advantage of that long time horizon to make future you love past you.
+Long-term, my opinion is that equities is how a vast majority of people (>90%) should invest.  Probably the only exceptions to this are if your real job is related to an asset class so that you can be a professional at it.  You're probably better off following the advice in this page than worrying about complex asset classes like [real estate](realestate.md). The most important piece of this is to harness the [power of compounding](https://www.businessinsider.com/amazing-power-of-compound-interest-2014-7)!  You're young. (Ok, maybe you're not when you're reading this, but I can guarantee one thing, you are not getting younger, so start now!)  Take advantage of that long time horizon to make future you love past you.
 
 * [Invest Early & Often](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy#Invest_early_and_often)
 
@@ -21,7 +21,7 @@ Finally, watch these videos:
 
 Yes, they're more than a little boring.  Sorry about that.  But I really believe if you follow these concepts you will be super successful financially and prevent people from taking advantage of you in your financial life (and trust me, plenty of people will try).
 
-**Never Forget!**
+### Never Forget!
 
 Investing is ALWAYS going to be trade-off of two things (plus another):
 * Risk
@@ -30,7 +30,7 @@ Investing is ALWAYS going to be trade-off of two things (plus another):
 The higher the risk, the greater the potential return, and vise-versa.
 If someone tries to sell you something that is low-risk and high return, walk away.
 
-The other thing that also comes into play is liquidity.  In particular think about things like real-estate which can't be quickly sold, versus cash which doesn't need to be sold.
+The third thing that also comes into play is [liquidity](liquidity).  In particular think about things like real-estate which can't be quickly sold, versus cash which doesn't need to be sold.
 
 ## What should I invest in?
 

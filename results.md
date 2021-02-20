@@ -5,14 +5,16 @@ sidebar_label: What I Do
 ---
 I know a lot of these discussions seem a little abstract, and it’s really easy to read what people say you should do, but what do they do, and does it work?  So, to that end, here is what I do.
 
-**Note:**  Updated in late 2020 for how my portfolio has changed.  Look at [file history](https://github.com/jotpowers/College-Grads/commits/master/results.md) to see what it was, and the evolution of thought.
+:::note
+Updated in late 2020 for how my portfolio has changed.  Look at [file history](https://github.com/jotpowers/College-Grads/commits/master/results.md) to see what it was, and the evolution of thought.
+:::
 
-## Investments
+## What I'm Doing
 
-* Most of my investments are in low-cost broad index funds.  In particular I own VTSAX in a brokerage account and VIIIX in my 401k (because it's the best available option).  This represents rougly 2/3rds of my market portfolio.
+* Most of my investments are in low-cost broad index funds.  In particular I own VTSAX in a brokerage account and VIIIX in my 401k (because it's the best available option).  This represents roughly 2/3rds of my market portfolio.
 * I'm putting more money into VEU because I'm higher on the risk side of the [efficient frontier](https://www.investopedia.com/terms/e/efficientfrontier.asp) than I need to be, so will slowly add there.   I expect this to be instead of more bond allocations, slowly skewing me back towards higher risk.
 * I have the remaining 1/3rd in low cost index bond funds.  In particular VBTIX. I'm more heavily weighted here than I have been in the past because I'm less tolerant of volatility as I get closer to retirement.  I hold these entirely in retirement accounts, because dividends from bonds are taxes as ordinary income, so if I can have that in retirement accounts and equities in brokerage I can have the non-retirement accounts dividents be taxed as capital gains.
-* My 401k is a traditional (i.e. pre-tax) 401k.  This is change because as I've looked at my retirement plans, the chances that my post retirement tax rate will be even close to my W-2 rate is miniscule.  So, I'd rather get the advantage of saving the taxes now.
+* My 401k is a traditional (i.e. pre-tax) 401k.  This is change because as I've looked at my retirement plans, the chances that my post retirement tax rate will be even close to my W-2 rate is miniscule.  So, I'd rather get the advantage of saving the taxes now.  I go into some of the details over at [Traditional vs Roth](tvr).
 * I have a handful of "passive" [real estate](realestate.md) investments.  I'm slowly unwinding these because I don't see the advantages vs the risk potential of loss.  I have enjoyed the income showing up in my account, but still not worth it to me.
 * I utilize both Backdoor Roths and Mega Backdoor Roths (worst bandname ever).
   * My company 401k changed to allow me to roll all existing IRAs into my 401k to allow me to escape the pro-rata rule.  (I also mistakenly rolled in post-tax dollars, which you should avoid.  If you don't know what that means, this is your clue to do more research. I also discuss it over at the [Solo 401k](solo.md) page.)
@@ -35,9 +37,11 @@ So, in summary, I had random results and had some good outcomes and bad outcomes
 
 ## Sample Results
 
-I worked for a company from September of 2003 until May of 2006.  In that time, I contributed to my 401k, entirely into index funds.  (Maybe not the best ones, but we all learn).  I haven’t rolled this over to something else, so it provides a great view into a single long-term investment.
+I worked for a company from September of 2003 until May of 2006.  In that time, I contributed to my 401k, entirely into index funds.  (Maybe not the best ones, but we all learn).  I haven’t rolled this over to something else, so it provides a great view into a single long-term investment.  
 
-The thin line at the bottom is my total contributions.  The blue line at the top is total value of the portfolio.  The little red markers are when I made a change to allocations.
+What does three years of investments with only market gains, look like over nearly 20 years? 
+
+The thin grey line at the bottom is my total contributions.  The blue line at the top is total value of the portfolio.  The little red markers are when I made a change to allocations.
 
 My cumulative personal return is just under 175%, which annualizes to 6%.  
 

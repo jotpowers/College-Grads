@@ -4,20 +4,20 @@ title: Overview
 sidebar_label: Overview
 ---
 
-# Laws of Physics
+## Laws of Physics
 Here are some laws of physics for investing.  Ok, they’re not really Newton-esqe, but they’re true enough that you should pay attention to them.
 
-# Risk:Return
+### Risk:Return
 
 This is a truism of finance.  The higher your risk, the higher your potential return.  Also, the more likely it could go to zero.  That’s the risk side of it.  In general, you want to have a balanced portfolio and we’ll go into that later.  
 
-# Debt
+### Debt
 
 Debt is exactly like weight.  If you want to gain weight, the only to do that is to take in more calories than you burn.  The only way to lose weight is to burn more calories that you take in.
 
 For debt, the only way to lose it is to spend less than you make.  The only way to gain it is to make less than you spend.
 
-# Get Rich Not-So-Quick
+## Get Rich Not-So-Quick
 
 >"Time in the market is more important than timing the market." -Unknown
 
@@ -48,7 +48,7 @@ There is also a great table at the end of the paper titled “Table 1: Summary o
 
 Finally, recognize even if you are the [World's Worst Market Timer](https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/), as long as you stay in the market, you'll be ok. 
 
-# What to do
+## What to do
 Now, knowing all of these things is the key to maximizing your chances of retiring in luxurious comfort.  Here’s how.
 
 You know:
@@ -56,6 +56,6 @@ You know:
 * You are most people
 * Over the long term the market will likely earn ~7%
 
-So, you will invest in the market and then you will ignore your investments for years to come.  Here is my micro strategy:
+So, you will invest in a broad-based index of the market and then you will ignore your investments for years to come.  Here is my micro strategy:
 
 * I watch my investments when the stock market is going up and I ignore them when it is going down.

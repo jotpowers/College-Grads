@@ -3,9 +3,13 @@ id: espp
 title: ESPP
 sidebar_label: ESPP
 ---
-# Employee Stock Purchase Plan (ESPP)
+# Overview
 
-If the program is setup well, you should absolutely do this.  If it's not, well then, probably not.  The difference is, do you get an automatic discount?  If you do get an automatic discount, then this is (almost) 100% risk free return on a pretty short term.  This is the only exception I know of to the risk:reward ratio.  
+ESPP is an Employee Stock Purchase Plan.  Generally speaking it provides you the opportunity to buy company stock at a discount.
+
+If the program is setup well, you should absolutely do this.  If it's not, well then, probably not.  The difference is, do you get an automatic discount?  If you do get an automatic discount, then this is (almost) 100% risk free return on a pretty short term.  
+
+This is the only exception I know of to the risk:reward ratio.  
 
 There may be no such thing as a free lunch, but I'm not sure how much closer this can get.  You enroll and contribute (the maximum you can if you're smart) money for a 6 month period.  At the end of that period you get stock at a discount (commonly 10-15%) on the lowest of the price at the beginning or end of the offering period.  Mine have typically been 15%, so I'll use this number going forward.  A 15% discount is actually a return of 17.6% (15/85).  This means you are virtually guaranteed gross return of 17.6% every 6 months and given that it's the lowest, likely even more.  Even at the highest tax rates you'll be over 10% net.  There is nothing else that you can do that is this safe with a return anywhere close.
 
@@ -53,4 +57,4 @@ There are more than a few words in there that are hedging words.  "Virtually ris
 
 ## Embarassing Admission
 
-I no longer follow my own advice.  That's right, I hold on to ESPP stock.  Why?  Because I got to the point in my investment career where company stock went from being an investment to being [speculation](speculation.md).  It is a small enough portion of my overall portfolio that I can take a risk on it out performing the market or going to zero, so I'm willing to risk holding onto it.
+I no longer follow my own advice.  That's right, I hold on to ESPP stock.  Why?  Because I've gotten to the point in my investment career where company stock went from being an investment to being [speculation](speculation.md).  Because it is a small enough portion of my overall portfolio, I can take a risk on it outperforming the market or going to zero, so I'm willing to risk holding onto it for the upside potential.
