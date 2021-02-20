@@ -7,7 +7,7 @@ sidebar_label: Overview
 When you looking at your ability to save, you should try to fill these buckets, in this order.  It is well laid out in the [flowchart](spending.md) as well.
 
 * [Emergency Fund](emergency.md) - Money to allow you to weather moderate disasters
-* [Should I do a Roth?](tvr.md) - Should you focus on pre-tax before post-tax? (tl;dr: No)
+* [Should I do a Roth](tvr) - Should you focus on pre-tax before post-tax? (tl;dr: No)
 * [Pre-tax](pre-tax.md) - Money you can put away before the government taxes it
 * [After-tax](after-tax.md) - It's already been taxed, but can grow tax free/deferred
 * [Taxable](taxable.md) - The goverment has already taken their cut, and will in the future, but it can still grow
