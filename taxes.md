@@ -4,7 +4,7 @@ title: Taxes
 sidebar_label: Taxes
 ---
 
-![Copyright David Corby, 2006, from Wikimedia](assets/alcatraz.jpg)
+![Image Copyright David Corby, 2006, from Wikimedia](assets/alcatraz.jpg)
 
 ## Overview
 

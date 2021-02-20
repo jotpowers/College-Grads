@@ -1,7 +1,7 @@
 ---
 id: insurance
-title: Life Insurance
-sidebar_label: Life Insurance
+title: Insurance
+sidebar_label: Insurance
 ---
 
 # End of life
