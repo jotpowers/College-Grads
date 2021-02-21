@@ -3,7 +3,6 @@ id: tvr
 title: Traditional vs Roth 401k
 sidebar_label: Should I do a Roth?
 ---
-
 ## Preface
 
 So, which one should you do?  If there were a straightforward answer, the other one would never get mentioned, so it isn't a simple answer.  
@@ -18,6 +17,14 @@ To quote [Morgan Housel](https://twitter.com/morganhousel):
 > Aiming to be mostly reasonable works better than trying to be coldly rational.
 
 I don't think the Google searches for the differences are particularly useful, but with some digging you can find some really good, in-depth analysis of the differences.  Instead of rehashing those, I'll provide links to them below.
+
+## What This Applies To
+
+It applies to both:
+* [401k](401k)
+* [Individual Retirement Accounts (IRA)](ira)
+
+I'll break out some of the details in those documents.
 
 ## Major Differences
 
@@ -43,13 +50,6 @@ I created a 401k tab on [my spreadsheet](https://docs.google.com/spreadsheets/d/
 
 ## My advice
 Make more money and force yourself to be more disciplined by using the Traditional 401k.  Fill as many pre-tax buckets as you can.
-
-## What about IRAs?
-This gets more complicated, because then we start talking about:
-* Backdoor Roth
-* Mega Backdoor Roth
-
-That's outside the scope of this document, at least for now.
 
 ## Further reading
 * [Bogleheads - Traditional vs Roth](https://www.bogleheads.org/wiki/Traditional_versus_Roth)

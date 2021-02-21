@@ -6,7 +6,7 @@ sidebar_label: tl;dr
 
 ## What To Do
 
-The "overview" can be overwhelming, so I'm going to try to distill it down into a simple plan of action for you.  That means it won't be very nuanced, but you'll have all of the rest of the content to explore when you feel a little more settled.  I'll link to that more detail if you want to dig in.
+The "Overview" can be overwhelming, so I'm going to try to distill it down into a simple plan of action for you.  That means it won't be very nuanced, but you'll have all of the rest of the content to explore when you feel a little more settled.  I'll link to that more detail if you want to dig in.
 
 * [Healthcare](simple.md#Healthcare)
 * [Retirement](simple.md#Retirement)

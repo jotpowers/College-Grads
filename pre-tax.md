@@ -20,9 +20,9 @@ There have been times where I've wondered if my assets/income after I retire wou
 
 These are generally pretty limited, but they include:
 
-* 401K / 403b
+* [401K / 403b](401k)
 * Health Savings Account (HSA)
-* Deductible IRA
+* [Deductible IRA](ira)
 * Various public service jobs benefits that I'm ignorant of (aka 457b)
 
 If your employer offers any type of matching, you should make sure you take advantage of that.  After that it's about trading off convenience and the quality of the investment options (i.e. low cost index funds)
