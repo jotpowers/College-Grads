@@ -77,7 +77,7 @@ First, you can't apply that loss to your income or other investment gains only a
 
 If at this point you're saying to yourself, "Self, this is crazy complex!"  You're right, so understand what you're getting into. 
 
-**Summary** 
+## Summary
 
 It is important to actually quantify this is real numbers and to take a shot at that I'm going to use the numbers I have laid out over in [Real Estate](realestate.md).
 
@@ -88,6 +88,9 @@ It is important to actually quantify this is real numbers and to take a shot at 
 So, if you have a tax rate above 4.3% (Hint: You probably do) choosing a rate of return of 6.9% on something with 0% taxes will net you more money.  At a 20% tax rate, to match the 6.9% net you need your return to get you 8.6%.
 
 ... but you're going to have to be willing to work harder to have real estate work for you.
+
+## Further Reading
+* [Investopedia](https://www.investopedia.com/ask/answers/060415/what-average-annual-return-typical-long-term-investment-real-estate-sector.asp)
 
 
 ## TBD
