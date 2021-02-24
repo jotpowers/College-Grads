@@ -55,3 +55,4 @@ Make more money and force yourself to be more disciplined by using the Tradition
 * [Bogleheads - Traditional vs Roth](https://www.bogleheads.org/wiki/Traditional_versus_Roth)
 * [The Finance Buff - The Case Against Roth 401k](https://thefinancebuff.com/case-against-roth-401k.html)
 * [Investopedia - Roth 401k](https://www.investopedia.com/terms/r/roth401k.asp)
+* [MadFientist - Traditiona vs Roth](https://www.madfientist.com/traditional-ira-vs-roth-ira/)
