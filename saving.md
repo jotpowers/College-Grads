@@ -15,3 +15,7 @@ When you looking at your ability to save, you should try to fill these buckets, 
 Now, this focuses a lot on the tax treatment, because it represents a way to get better returns.  Do **NOT** take this as advice that you should actually focus on reducing taxes.  You should focus on [investing](investing.md) as much as you can.
 
 These are just buckets you fill to try to optimize your returns.
+
+## Additional Reading
+* [Reddit - The Prime Directive](https://www.reddit.com/r/personalfinance/wiki/commontopics?utm_content=t5_2qstm)
+* [Bogleheads - Prioritizing Investments](https://www.bogleheads.org/wiki/Prioritizing_investments)
