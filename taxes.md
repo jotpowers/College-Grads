@@ -44,3 +44,7 @@ Ok so I wrote this a while ago, and then I read it, and I realized it's 100% tru
 * But, when you do that sale you immediately recognize income on it (because the company forces you to) and on your pay stub will say something like "$110" in W2 income, which is now your cost basis.  Now, instead of having a gain of $100 ($100 - $0) , you have a "loss" of $10 ($100 - $110), and your taxes will be dramatically changed.
 * So, you can go from a paper gain of a large number ($100) to a small paper loss ( -$10 ) which could make a several hundred/thousand dollar change in your out of pocket, so pay attention.
 * I include this calculation in the "Taxes" tab of the [Introduction to Investing Calculations](https://docs.google.com/spreadsheets/d/1y3HWSfN4bGt7S5OjlKtTXmiEOeoyn44JVXM31QebP1w/edit?usp=sharing) spreadsheet.
+
+## Additional Reading
+
+* [Bogleheads - Tax efficient fund placement](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement)
