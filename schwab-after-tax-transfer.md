@@ -18,7 +18,7 @@ Starting in 2019 Acme got with the program and started allowing three things tha
 But, it is pretty cool, and here is why.
 
 ## After tax contributions to your 401(k)
-Per the IRS you are only allowed to contribute up to $19,000 annually (changes with the year, but close enough to this number) to a 401(k).  Additionally, your employer can provide matching contributions, which PayPal does.  All pretty standard stuff.
+Per the IRS you are only allowed to contribute up to $19,000 annually (changes with the year, but close enough to this number) to a 401(k).  Additionally, your employer can provide matching contributions, which Acme does.  All pretty standard stuff.
 
 But, the maximum annual contribution to a 401(k) is $57,000 (ish).  The astute among you will notice that 56 - 19 - $employer_match > 0.  As a matter of fact, it's at least $26,100.00.  What an after-tax contributions does is allow you increase your savings in a tax advantaged manner.
 
