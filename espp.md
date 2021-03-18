@@ -58,3 +58,7 @@ There are more than a few words in there that are hedging words.  "Virtually ris
 ## Embarassing Admission
 
 I no longer follow my own advice.  That's right, I hold on to ESPP stock.  Why?  Because I've gotten to the point in my investment career where company stock went from being an investment to being [speculation](speculation.md).  Because it is a small enough portion of my overall portfolio, I can take a risk on it outperforming the market or going to zero, so I'm willing to risk holding onto it for the upside potential.
+
+## External links
+
+* [TheFinanceBuff](https://thefinancebuff.com/employee-stock-purchase-plan-espp-is.html) 
