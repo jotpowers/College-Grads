@@ -49,7 +49,7 @@ The traditional 401k will likely result in you having more money.  The only thin
 I created a 401k tab on [my spreadsheet](https://docs.google.com/spreadsheets/d/1y3HWSfN4bGt7S5OjlKtTXmiEOeoyn44JVXM31QebP1w/edit?usp=sharing) to allow me to work through this on my own.  You'll have to 'File -> Make a Copy' if you want to play with the numbers
 
 ## My advice
-Make more money and force yourself to be more disciplined by using the Traditional 401k.  Fill as many pre-tax buckets as you can.
+You'll end up with more money and force yourself to be more disciplined by using the Traditional 401k (especially if you invest your Roth delta into a taxable account).  Fill as many pre-tax buckets as you can.
 
 ## Further reading
 * [Bogleheads - Traditional vs Roth](https://www.bogleheads.org/wiki/Traditional_versus_Roth)
