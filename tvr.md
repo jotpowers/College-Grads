@@ -42,7 +42,7 @@ With a Roth 401k you know:
 * You won't have to plan on paying taxes on any of the money
 * You won't be forced to take out withdrawals if you don't want to
 
-But, it probably does it at the cost of future returns.
+**But**, it probably does it at the cost of future returns.
 
 The traditional 401k will likely result in you having more money.  The only thing likely to make this untrue is if you're planning on moving when you retire from a state with low state tax rates, to a state with high tax rates.
 
