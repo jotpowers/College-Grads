@@ -81,10 +81,10 @@ You can also simply transfer this money into your Roth 401k.
 ### Advantages
 * It's just a phone call
 * Don't have to have other accounts open
+* With the PCRA option, you can self direct what ETFs or stocks you want to invest in, similar to the IRA options.
 ### Disadvantages
 * You have to talk to humans
 * Needs to be done during business hours
-* Some people aren't fond of the plan investment choices
 ### Steps
 * Call into Schwab Plan (800-724-7526) and talk to them during business hours.
 * They will read forms to you over the phone and fill them out, and then it will be done.
