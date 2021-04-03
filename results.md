@@ -46,6 +46,7 @@ The thin grey line at the bottom is my total contributions.  The blue line at th
 My cumulative personal return is just under 175%, which annualizes to 6%.  
 
 ![Personal Results](assets/results.png)
+*(The little red triangles indicate where investment changes were made.  Generally, consolidating into fewer index funds.)*
 
 You’ll notice that when the Great Recession hit in 2008, the value of the portfolio was actually worth less than the amount of money I had put in.  But, in less than 2 years it had recovered and it took nearly 6 years to recover to the highs of 2007, but it has continued to climb.
 
