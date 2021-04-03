@@ -3,7 +3,7 @@ id: insurance
 title: Non-Healthcare Insurance
 sidebar_label: Non-Healthcare Insurance
 ---
-![Life insurance](assets/life-insurance.png)
+![Insurance](assets/insurance.png)
 
 ## End of life
 
