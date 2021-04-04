@@ -3,6 +3,7 @@ id: espp
 title: ESPP
 sidebar_label: ESPP
 ---
+![Employee Stock Purchase Plan](assets/espp.jpg)
 # Overview
 
 ESPP is an Employee Stock Purchase Plan.  Generally speaking it provides you the opportunity to buy company stock at a discount.
