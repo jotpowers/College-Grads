@@ -118,7 +118,7 @@ For Schwab I was able to initiate the transfer from Schwab and have it just happ
 
 For Etrade, they wouldn't allow me to rollover from an IRA to the 401k.  I had to do a qualified distribution from the source (in my case it was [T. Rowe Price](https://www.troweprice.com/personal-investing/home.html)) to Etrade.  This was sort of a pain because I had to fill out the forms, and then get a [Medallion Signature Guarantee](https://en.wikipedia.org/wiki/Medallion_signature_guarantee), which is more complicated.
 
-Honestly, Etrade is kind of a pain for this.  They want you to initiate all rollovers from the other company.  So, my *"Ah-ha"* moment was recognizing I should just rollover IRA to IRA at an account at Etrade.  Then the process of rolling it over from IRA to 401k is all at Etrade and I can have the conversation with them that goes "Well, why don't you just talk to yourself to get it done?"
+Honestly, Etrade is kind of a pain for this.  They want you to initiate all rollovers from the other company.  So, my *"Ah-ha"* moment was recognizing I should just rollover IRA to IRA at an account at Etrade.  Then the process of rolling it over from IRA to 401k is all at Etrade and I can have the conversation with them that goes "Well, why don't you just talk to yourself to get it done?"  Then I discovered that that rollover was equally annoying.  So, no shortcuts.
 
 :::important
 If you haven't done the MSG before, you have to take the form and the account statements for the source and the destination.  Make sure you bring **all** of the pages of the account statements.  I hadn't printed out the 5 of 6 and 6 of 6 pages that were the privacy policy and "This page intentionally left blank" and they needed them.
