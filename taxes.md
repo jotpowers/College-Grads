@@ -25,6 +25,7 @@ The math behind this is super simple:
 At the end of the year, if 1 > 2 you have to pay.  If 2 < 1, then you get money returned to you.  
 Don't overthink it.  Your only real lever is #1, in which case, outright fraud is your best option.  I kid.  Al Capone tried that and he died of syphilis after an extended stay in Alcatraz.  So, instead, focus on doing the best you can and let taxes work themselves out.  Be cognizant of them, but don't let they drive your investment decisions.
 
+
 ## Restricted Stock Units (RSUs) & Taxes
 
 This may or may not be useful to you.  You probably already know all this, but just in case, Happy Tax day.
@@ -48,3 +49,4 @@ Ok so I wrote this a while ago, and then I read it, and I realized it's 100% tru
 ## Additional Reading
 
 * [Bogleheads - Tax efficient fund placement](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement)
+* [Great visualization of marginal tax rates - Engaging-data.com](https://engaging-data.com/tax-brackets/)
