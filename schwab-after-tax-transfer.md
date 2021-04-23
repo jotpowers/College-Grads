@@ -47,8 +47,9 @@ Having gone through this process there are a few options:
 
 ## Roll-over to a Roth IRA
 ### via check transfer
-#### Advantage
-You don't have to talk to humans
+#### Advantages
+* You don't have to talk to humans
+* You have a wider ranger of investment options
 #### Disadvantage
 * You have to setup a Roth IRA somewhere.  You may have to handle checks if you're doing external institutions.
 
