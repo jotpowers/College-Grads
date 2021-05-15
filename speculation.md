@@ -29,6 +29,12 @@ But, I want to call out why this is speculation and not investing.  A few years 
 
 ![15-year old me crying](assets/rally-lambo.png)
 
+:::note
+Update 2021: I finally broke down and did it. A piece of the Lambo is mine!  Go big or go home!
+
+![Big spender](Images/lambo-is-mine.png)
+:::
+
 ### Older me
 
 However, Rally expanded into other memorabilia, so I will buy a single share of things that I have an emotional attachment to, or I think might make neat gifts for people.  The shoes up top are an example.  Through some sort of failing as a parent I have a son who is a bit of a sneakerhead, so I thought those would be neat for him.
