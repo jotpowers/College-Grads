@@ -79,7 +79,7 @@ If at this point you're saying to yourself, "Self, this is crazy complex!"  You'
 
 ### Filing
 
-Additionaly, it's going to complicate your tax filing, because now you're going to get K-1s.  You're probably saying, "So what, it's another form, I can figure it out", and you're right.  **But**, they often come out after April 15th, so now you'll be filing for extensions every year, which is annoying because you almost end up doing your taxes twice.
+Additionally, it's going to complicate your tax filing, because now you're going to get K-1s.  You're probably saying, "So what, it's another form, I can figure it out", and you're right.  **But**, they often come out after April 15th, so now you'll be filing for extensions every year, which is annoying because you almost end up doing your taxes twice.
 
 ## Summary
 
