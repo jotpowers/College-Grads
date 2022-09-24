@@ -77,6 +77,10 @@ First, you can't apply that loss to your income or other investment gains only a
 
 If at this point you're saying to yourself, "Self, this is crazy complex!"  You're right, so understand what you're getting into. 
 
+### Filing
+
+Additionaly, it's going to complicate your tax filing, because now you're going to get K-1s.  You're probably saying, "So what, it's another form, I can figure it out", and you're right.  **But**, they often come out after April 15th, so now you'll be filing for extensions every year, which is annoying because you almost end up doing your taxes twice.
+
 ## Summary
 
 It is important to actually quantify this is real numbers and to take a shot at that I'm going to use the numbers I have laid out over in [Real Estate](realestate.md).
