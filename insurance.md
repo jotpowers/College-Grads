@@ -44,18 +44,3 @@ This will vary greatly, but again, you should probably focus on the big items
 I’ll provide a very quick, very concise summary:  You should only get Term Life.  Anything else will result in less money for you, and more money for people who sell it.
 
 * [Investopia Whole/Term Guide](https://www.investopedia.com/advisor-network/articles/whole-or-term-life-insurance-definitive-guide/)
-
-Now, onto the details.
-
-### Term
-add more
-
-### Permanent 
-Permanent covers a whole host of different named policies.  But the idea for all of them is the same:  Regardless as to when you die, you will have an amount of money to be paid.
-
-### Whole Life
-add more
-
-### Universal Life
-add more
-
