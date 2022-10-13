@@ -4,7 +4,7 @@ title: Life Insurance + Long Term Care
 sidebar_label: Life Insurance + Long Term Care
 ---
 
-== Introduction
+## Introduction
 
 My employer recently added a new benefit offering that is optional Life Insurance (LI) plus Long Term Care (LTC) insurance.  This was intriguing to me, because LTC costs are high, and it might make sense to do this if it significantly reduced future risk.  So, I spent some time and dug into it to try to understand it better.
 
@@ -21,7 +21,7 @@ With flexible features that promise:
 
 But, the details matter.
 
-=== tl;dr
+### tl;dr
 
 * If you expect to live to the US national average (79) and you're over 50 it might make sense. 
 * If you're young it probably makes no sense.
@@ -29,7 +29,7 @@ But, the details matter.
 
 Given all the odds, I'm not going for it.
 
-== Detour
+## Detour
 
 It took me a little bit longer to write this up because I wanted to do some basic research to see if there was any science behind one of my base assumptions.  The assumption is:
 
@@ -39,7 +39,7 @@ The short answer is, I think it does sort of hold, but as with a lot of science 
 
 Now, I have pretty good information on paternal side, but on my maternal side, the data is a bit lacking for various reasons.  That being said, I feel pretty comfortable saying I should make the average for the US, and there is a reasonable likelyhood I'll need LTC.
 
-== Details
+## Details
 
 As usual, the details really matter.  The first thing that caught my eye was this was labeled as:
 
@@ -68,6 +68,6 @@ The last one is interesting, because it contradicts what's in their summary info
 
 In order to make this a bit easier to understand (for me if no one else), I created a Google sheet to allow me to look at the cost/benefit.  You'll need to make a copy to change the values, but it might be helpful for you.
 
-* [https://docs.google.com/spreadsheets/d/1uuRjgL0m8fyK4JTKiP9hWDHo49YSBfGM2iWNK78ng7w/edit?usp=sharing](Life Insurance + Long Term Care)
+* [Life Insurance + Long Term Care](https://docs.google.com/spreadsheets/d/1uuRjgL0m8fyK4JTKiP9hWDHo49YSBfGM2iWNK78ng7w/edit?usp=sharing)
 
 
