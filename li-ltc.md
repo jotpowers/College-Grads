@@ -37,7 +37,7 @@ It took me a little bit longer to write this up because I wanted to do some basi
 
 The short answer is, I think it does sort of hold, but as with a lot of science it's not a yes/no answer.  If you really want to dig into the details I'd recommend reviewing the references in the paper titled [Why is parental lifespan linked to children's chances of reaching a high age? A transgenerational hypothesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769101/).
 
-Now, I have pretty good information on paternal side, but on my maternal side, the data is a bit lacking for various reasons.  That being said, I feel pretty comfortable saying I should make the average for the US, and there is a reasonable likelyhood I'll need LTC.
+Now, I have pretty good information on paternal side, but on my maternal side, the data is a bit lacking for various reasons.  That being said, I feel pretty comfortable saying I should exceed the average for the US, and there is a reasonable likelyhood I'll need LTC.
 
 ## Details
 
