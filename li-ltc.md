@@ -66,6 +66,8 @@ That second one is a real kicker.  Suddenly your death benefit is not $175k, it'
 
 The last one is interesting, because it contradicts what's in their summary infographic handout.  So, you'd want to really look at the policy.
 
+But, what do we compare this too?  I chose to compare it against just investing the premium into a broad based index fund making 6%.  You can obviously change that percentage if you'd like.
+
 In order to make this a bit easier to understand (for me if no one else), I created a Google sheet to allow me to look at the cost/benefit.  You'll need to make a copy to change the values, but it might be helpful for you.
 
 * [Life Insurance + Long Term Care](https://docs.google.com/spreadsheets/d/1uuRjgL0m8fyK4JTKiP9hWDHo49YSBfGM2iWNK78ng7w/edit?usp=sharing)
