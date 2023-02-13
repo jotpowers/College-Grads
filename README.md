@@ -11,7 +11,7 @@ sidebar_label: Overview
 
 > *Note*:  If you're reading this via straight Github, it is also now available in an easier to read format at [jotpowers.github.io](https://jotpowers.github.io/).  This is as a result of Vidit opening [this issue](https://github.com/jotpowers/College-Grads/issues/1). If you're reading this via Github Pages, then the bare repo is available [here](https://github.com/jotpowers/College-Grads).
 
-The information in here started when I had several Receng Colleges Grads (RCG) that were starting to work for me.  Now, some of it was very specific to the company I was working for, but over time, it became a document that people were referring to for a lot of different things, primarily due to the finance information/opinions in it.
+The information in here started when I had several Recent Colleges Grads (RCG) that were starting to work for me.  Now, some of it was very specific to the company I was working for, but over time, it became a document that people were referring to for a lot of different things, primarily due to the finance information/opinions in it.
 
 Then it grew to the point where I decided it probably needed to be crowdsourced, but the discussion was how.  And now we have it on [Github](https://github.com/jotpowers/College-Grads).  Yes, I'll take pull requests.  
 
