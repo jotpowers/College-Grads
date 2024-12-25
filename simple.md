@@ -8,9 +8,9 @@ sidebar_label: tl;dr
 
 The "Overview" can be overwhelming, so I'm going to try to distill it down into a simple plan of action for you.  That means it won't be very nuanced, but you'll have all of the rest of the content to explore when you feel a little more settled.  I'll link to that more detail if you want to dig in.
 
-* [Healthcare](simple.md#Healthcare)
-* [Retirement](simple.md#Retirement)
-* [Life Insurance](simple.md#Insurance)
+* [Healthcare](simple.md#healthcare)
+* [Retirement](simple.md#retirement)
+* [Life Insurance](simple.md#life-insurance)
 
 ## Healthcare
 
