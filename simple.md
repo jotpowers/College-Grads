@@ -24,7 +24,7 @@ Sign up for the "premium" package.  It is likely only a few dollars more and if 
 
 ### Vision
 
-If you or your family needs glasses or contacts, sign up for the basic, otherwise you can probably just decline.  You can change it next year during open enrollment if you learn in the meantime you don't like it.  If you want to get corrective surgery, it's probably better covered by the slightly more expensive upgraded plan.
+If you or your family needs glasses or contacts, sign up for the basic plan.  You can change it next year during open enrollment if you learn in the meantime you don't like it.  If you want to get corrective surgery, it's probably better covered by the slightly more expensive upgraded plan.
 
 ### Flexible Spending Account
 
