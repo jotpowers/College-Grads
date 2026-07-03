@@ -43,4 +43,4 @@ This will vary greatly, but again, you should probably focus on the big items
 ## Life insurance options
 I’ll provide a very quick, very concise summary:  You should only get Term Life.  Anything else will result in less money for you, and more money for people who sell it.
 
-* [Investopia Whole/Term Guide](https://www.investopedia.com/advisor-network/articles/whole-or-term-life-insurance-definitive-guide/)
+* [Bogleheads view of life insurance](https://www.bogleheads.org/wiki/Life_insurance#Boglehead_view_of_life_insurance_products)
